@@ -28,10 +28,8 @@ PAGES = 70
 
 for i in range(1, 70):
     with open(f"output/data-{i}.json") as f:
-        print("i", i)
         data = json.load(f)
         for word in data:
-            print("word", word)
             note = genanki.Note(
                 model=model,
                 fields=[
