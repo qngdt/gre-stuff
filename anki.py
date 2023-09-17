@@ -26,7 +26,7 @@ deck = genanki.Deck(
 
 PAGES = 70
 
-for i in range(1, 32):
+for i in range(1, 70):
     with open(f"output/data-{i}.json") as f:
         print("i", i)
         data = json.load(f)
@@ -42,7 +42,5 @@ for i in range(1, 32):
                 ],
             )
             deck.add_note(note)
-
-print("GOT HERE")
 
 genanki.Package(deck).write_to_file("gre-vocab.apkg")
