@@ -1,1 +1,116 @@
-[{"number": 180, "word": "diverse", "word_type": "adj.", "meaning": "different from each other, varied"}, {"number": 181, "word": "divert", "word_type": "v.", "meaning": "to cause to change course; to distract"}, {"number": 182, "word": "divisive", "word_type": "adj.", "meaning": "causing disagreement"}, {"number": 183, "word": "doctrine", "word_type": "n.", "meaning": "a principle or belief held by a group"}, {"number": 184, "word": "domineering", "word_type": "adj.", "meaning": "imposing of one\u2019s will, overbearing"}, {"number": 185, "word": "dubious", "word_type": "adj.", "meaning": "doubtful; questionable"}, {"number": 186, "word": "dwindle", "word_type": "v.", "meaning": "to steadily lessen"}, {"number": 187, "word": "eccentric", "word_type": "adj.", "meaning": "unconventional and strange"}, {"number": 188, "word": "eclipse", "word_type": "v.", "meaning": "to surpass, to outshine"}, {"number": 189, "word": "economical", "word_type": "adj.", "meaning": "careful not to waste money or resources"}, {"number": 190, "word": "efficacious", "word_type": "adj.", "meaning": "effective"}, {"number": 191, "word": "egoistic", "word_type": "adj.", "meaning": "totally self-absorbed, believing oneself to be more important than everyone else"}, {"number": 192, "word": "elaborate", "word_type": "adj.", "meaning": "full of detail or complexity"}, {"number": 192, "word": "elaborate", "word_type": "v.", "meaning": "to give details"}, {"number": 193, "word": "elicit", "word_type": "v.", "meaning": "to bring forth"}, {"number": 194, "word": "elitist", "word_type": "adj.", "meaning": "regarding others as inferior, snobbish"}, {"number": 195, "word": "eloquent", "word_type": "adj.", "meaning": "clearly and persuasively expressed; articulate"}, {"number": 196, "word": "embellish", "word_type": "v.", "meaning": "to add decorative detail to; to make more appealing by adding untrue details (of a story, etc.)"}, {"number": 197, "word": "emphatic", "word_type": "adj.", "meaning": "forceful and clear"}]
+[
+  {
+    "number": 180,
+    "word": "diverse",
+    "word_type": "adj.",
+    "meaning": "different from each other, varied"
+  },
+  {
+    "number": 181,
+    "word": "divert",
+    "word_type": "v.",
+    "meaning": "to cause to change course; to distract"
+  },
+  {
+    "number": 182,
+    "word": "divisive",
+    "word_type": "adj.",
+    "meaning": "causing disagreement"
+  },
+  {
+    "number": 183,
+    "word": "doctrine",
+    "word_type": "n.",
+    "meaning": "a principle or belief held by a group"
+  },
+  {
+    "number": 184,
+    "word": "domineering",
+    "word_type": "adj.",
+    "meaning": "imposing of one'2019s will, overbearing"
+  },
+  {
+    "number": 185,
+    "word": "dubious",
+    "word_type": "adj.",
+    "meaning": "doubtful; questionable"
+  },
+  {
+    "number": 186,
+    "word": "dwindle",
+    "word_type": "v.",
+    "meaning": "to steadily lessen"
+  },
+  {
+    "number": 187,
+    "word": "eccentric",
+    "word_type": "adj.",
+    "meaning": "unconventional and strange"
+  },
+  {
+    "number": 188,
+    "word": "eclipse",
+    "word_type": "v.",
+    "meaning": "to surpass, to outshine"
+  },
+  {
+    "number": 189,
+    "word": "economical",
+    "word_type": "adj.",
+    "meaning": "careful not to waste money or resources"
+  },
+  {
+    "number": 190,
+    "word": "efficacious",
+    "word_type": "adj.",
+    "meaning": "effective"
+  },
+  {
+    "number": 191,
+    "word": "egoistic",
+    "word_type": "adj.",
+    "meaning": "totally self-absorbed, believing oneself to be more important than everyone else"
+  },
+  {
+    "number": 192,
+    "word": "elaborate",
+    "word_type": "adj.",
+    "meaning": "full of detail or complexity"
+  },
+  {
+    "number": 192,
+    "word": "elaborate",
+    "word_type": "v.",
+    "meaning": "to give details"
+  },
+  {
+    "number": 193,
+    "word": "elicit",
+    "word_type": "v.",
+    "meaning": "to bring forth"
+  },
+  {
+    "number": 194,
+    "word": "elitist",
+    "word_type": "adj.",
+    "meaning": "regarding others as inferior, snobbish"
+  },
+  {
+    "number": 195,
+    "word": "eloquent",
+    "word_type": "adj.",
+    "meaning": "clearly and persuasively expressed; articulate"
+  },
+  {
+    "number": 196,
+    "word": "embellish",
+    "word_type": "v.",
+    "meaning": "to add decorative detail to; to make more appealing by adding untrue details (of a story, etc.)"
+  },
+  {
+    "number": 197,
+    "word": "emphatic",
+    "word_type": "adj.",
+    "meaning": "forceful and clear"
+  }
+]

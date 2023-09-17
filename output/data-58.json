@@ -1,1 +1,104 @@
-[{"number": 945, "word": "credence", "word_type": "(n.)", "meaning": "acceptance of something as true; plausibility, credibility"}, {"number": 946, "word": "dalliance", "word_type": "(n.)", "meaning": "a brief, casual involvement with something or relationship"}, {"number": 949, "word": "demure", "word_type": "(adj.)", "meaning": "reserved and modest"}, {"number": 950, "word": "desultory", "word_type": "(adj.)", "meaning": "lacking a plan, purpose, or serious effort; aimless or random"}, {"number": 951, "word": "diffident", "word_type": "(adj.)", "meaning": "shy and lacking in self-con\ufb01dence"}, {"number": 952, "word": "dilatory", "word_type": "(adj.)", "meaning": "slow to act; causing delay"}, {"number": 953, "word": "dilettante", "word_type": "(n.)", "meaning": "a person who takes part in an activity without real commitment or deep knowledge, a dabbler"}, {"number": 954, "word": "dirge", "word_type": "(n.)", "meaning": "a song of grief or mourning"}, {"number": 955, "word": "disapprobation", "word_type": "(n.)", "meaning": "strong disapproval"}, {"number": 956, "word": "discom\ufb01t", "word_type": "(v.)", "meaning": "to make uneasy or embarrassed"}, {"number": 957, "word": "discursive", "word_type": "(adj.)", "meaning": "rambling, going from topic to topic (of speech or writing)"}, {"number": 958, "word": "disquiet", "word_type": "(v.)", "meaning": "to make uneasy or worried"}, {"number": 959, "word": "dissolute", "word_type": "(adj.)", "meaning": "lacking moral restraint"}, {"number": 960, "word": "droll", "word_type": "(adj.)", "meaning": "amusing in an odd way"}, {"number": 961, "word": "echelon", "word_type": "(n.)", "meaning": "a level or rank (in a society, profession, etc.)"}, {"number": 962, "word": "edify", "word_type": "(v.)", "meaning": "to inform or enlighten, to teach"}, {"number": 962, "word": "edi\ufb01cation", "word_type": "(n.)", "meaning": "improvement of the mind, morals, or character, often through instruction"}]
+[
+  {
+    "number": 945,
+    "word": "credence",
+    "word_type": "(n.)",
+    "meaning": "acceptance of something as true; plausibility, credibility"
+  },
+  {
+    "number": 946,
+    "word": "dalliance",
+    "word_type": "(n.)",
+    "meaning": "a brief, casual involvement with something or relationship"
+  },
+  {
+    "number": 949,
+    "word": "demure",
+    "word_type": "(adj.)",
+    "meaning": "reserved and modest"
+  },
+  {
+    "number": 950,
+    "word": "desultory",
+    "word_type": "(adj.)",
+    "meaning": "lacking a plan, purpose, or serious effort; aimless or random"
+  },
+  {
+    "number": 951,
+    "word": "diffident",
+    "word_type": "(adj.)",
+    "meaning": "shy and lacking in self-confidence"
+  },
+  {
+    "number": 952,
+    "word": "dilatory",
+    "word_type": "(adj.)",
+    "meaning": "slow to act; causing delay"
+  },
+  {
+    "number": 953,
+    "word": "dilettante",
+    "word_type": "(n.)",
+    "meaning": "a person who takes part in an activity without real commitment or deep knowledge, a dabbler"
+  },
+  {
+    "number": 954,
+    "word": "dirge",
+    "word_type": "(n.)",
+    "meaning": "a song of grief or mourning"
+  },
+  {
+    "number": 955,
+    "word": "disapprobation",
+    "word_type": "(n.)",
+    "meaning": "strong disapproval"
+  },
+  {
+    "number": 956,
+    "word": "discomfit",
+    "word_type": "(v.)",
+    "meaning": "to make uneasy or embarrassed"
+  },
+  {
+    "number": 957,
+    "word": "discursive",
+    "word_type": "(adj.)",
+    "meaning": "rambling, going from topic to topic (of speech or writing)"
+  },
+  {
+    "number": 958,
+    "word": "disquiet",
+    "word_type": "(v.)",
+    "meaning": "to make uneasy or worried"
+  },
+  {
+    "number": 959,
+    "word": "dissolute",
+    "word_type": "(adj.)",
+    "meaning": "lacking moral restraint"
+  },
+  {
+    "number": 960,
+    "word": "droll",
+    "word_type": "(adj.)",
+    "meaning": "amusing in an odd way"
+  },
+  {
+    "number": 961,
+    "word": "echelon",
+    "word_type": "(n.)",
+    "meaning": "a level or rank (in a society, profession, etc.)"
+  },
+  {
+    "number": 962,
+    "word": "edify",
+    "word_type": "(v.)",
+    "meaning": "to inform or enlighten, to teach"
+  },
+  {
+    "number": 962,
+    "word": "edification",
+    "word_type": "(n.)",
+    "meaning": "improvement of the mind, morals, or character, often through instruction"
+  }
+]

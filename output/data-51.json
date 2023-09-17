@@ -1,1 +1,104 @@
-[{"number": 839, "word": "siphon", "word_type": "v.", "meaning": "to draw or transfer from a source, to drain (into something else)"}, {"number": 840, "word": "slew", "word_type": "n.", "meaning": "a large amount"}, {"number": 841, "word": "slight", "word_type": "n.", "meaning": "an insulting act of disrespect"}, {"number": 841, "word": "slight", "word_type": "v.", "meaning": "to treat as unimportant"}, {"number": 842, "word": "solicitous", "word_type": "adj.", "meaning": "showing care and concern for the needs of others, attentive"}, {"number": 843, "word": "solvent", "word_type": "adj.", "meaning": "able to pay one\u2019s debts"}, {"number": 844, "word": "spurious", "word_type": "adj.", "meaning": "false or fake, esp. in a deceitful way; based on false ideas or faulty reasoning (of an argument, etc.)"}, {"number": 845, "word": "stilted", "word_type": "adj.", "meaning": "(of speech or writing) stiff and unnatural-seeming, too formal"}, {"number": 846, "word": "stinting", "word_type": "adj.", "meaning": "stingy"}, {"number": 846, "word": "stint", "word_type": "v.", "meaning": "to be stingy"}, {"number": 847, "word": "stoic", "word_type": "adj.", "meaning": "not complaining or showing feelings, accepting events without emotion"}, {"number": 848, "word": "stopgap", "word_type": "n.", "meaning": "a temporary measure or solution"}, {"number": 849, "word": "strife", "word_type": "n.", "meaning": "angry or bitter disagreement or conflict"}, {"number": 850, "word": "subservient", "word_type": "adj.", "meaning": "very submissive; less important than something or someone else"}, {"number": 854, "word": "supplant", "word_type": "v.", "meaning": "to take the place of"}, {"number": 855, "word": "supple", "word_type": "adj.", "meaning": "bending and moving easily and gracefully, flexible"}, {"number": 856, "word": "surmise", "word_type": "v.", "meaning": "to suppose something is true without strong evidence"}]
+[
+  {
+    "number": 839,
+    "word": "siphon",
+    "word_type": "v.",
+    "meaning": "to draw or transfer from a source, to drain (into something else)"
+  },
+  {
+    "number": 840,
+    "word": "slew",
+    "word_type": "n.",
+    "meaning": "a large amount"
+  },
+  {
+    "number": 841,
+    "word": "slight",
+    "word_type": "n.",
+    "meaning": "an insulting act of disrespect"
+  },
+  {
+    "number": 841,
+    "word": "slight",
+    "word_type": "v.",
+    "meaning": "to treat as unimportant"
+  },
+  {
+    "number": 842,
+    "word": "solicitous",
+    "word_type": "adj.",
+    "meaning": "showing care and concern for the needs of others, attentive"
+  },
+  {
+    "number": 843,
+    "word": "solvent",
+    "word_type": "adj.",
+    "meaning": "able to pay one'2019s debts"
+  },
+  {
+    "number": 844,
+    "word": "spurious",
+    "word_type": "adj.",
+    "meaning": "false or fake, esp. in a deceitful way; based on false ideas or faulty reasoning (of an argument, etc.)"
+  },
+  {
+    "number": 845,
+    "word": "stilted",
+    "word_type": "adj.",
+    "meaning": "(of speech or writing) stiff and unnatural-seeming, too formal"
+  },
+  {
+    "number": 846,
+    "word": "stinting",
+    "word_type": "adj.",
+    "meaning": "stingy"
+  },
+  {
+    "number": 846,
+    "word": "stint",
+    "word_type": "v.",
+    "meaning": "to be stingy"
+  },
+  {
+    "number": 847,
+    "word": "stoic",
+    "word_type": "adj.",
+    "meaning": "not complaining or showing feelings, accepting events without emotion"
+  },
+  {
+    "number": 848,
+    "word": "stopgap",
+    "word_type": "n.",
+    "meaning": "a temporary measure or solution"
+  },
+  {
+    "number": 849,
+    "word": "strife",
+    "word_type": "n.",
+    "meaning": "angry or bitter disagreement or conflict"
+  },
+  {
+    "number": 850,
+    "word": "subservient",
+    "word_type": "adj.",
+    "meaning": "very submissive; less important than something or someone else"
+  },
+  {
+    "number": 854,
+    "word": "supplant",
+    "word_type": "v.",
+    "meaning": "to take the place of"
+  },
+  {
+    "number": 855,
+    "word": "supple",
+    "word_type": "adj.",
+    "meaning": "bending and moving easily and gracefully, flexible"
+  },
+  {
+    "number": 856,
+    "word": "surmise",
+    "word_type": "v.",
+    "meaning": "to suppose something is true without strong evidence"
+  }
+]

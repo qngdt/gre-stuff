@@ -1,1 +1,122 @@
-[{"number": 1093, "word": "prolix", "word_type": "adj.", "meaning": "using too many words"}, {"number": 1093, "word": "prolixity", "word_type": "n.", "meaning": "the quality of being excessively wordy"}, {"number": 1094, "word": "promulgate", "word_type": "v.", "meaning": "to make widely known"}, {"number": 1095, "word": "propitious", "word_type": "adj.", "meaning": "indicating future success, favorable or promising"}, {"number": 1096, "word": "prosaic", "word_type": "adj.", "meaning": "ordinary or unimaginative"}, {"number": 1097, "word": "proscribe", "word_type": "v.", "meaning": "to forbid or prohibit"}, {"number": 1098, "word": "protean", "word_type": "adj.", "meaning": "changing easily or frequently; versatile"}, {"number": 1099, "word": "provident", "word_type": "adj.", "meaning": "providing for the future"}, {"number": 1100, "word": "puerile", "word_type": "adj.", "meaning": "childishly silly"}, {"number": 1101, "word": "pugnacious", "word_type": "adj.", "meaning": "eager to \ufb01ght or argue"}, {"number": 1102, "word": "punctilious", "word_type": "adj.", "meaning": "showing great attention to detail or correct behavior"}, {"number": 1103, "word": "quash", "word_type": "v.", "meaning": "to put an end to"}, {"number": 1104, "word": "quiescent", "word_type": "adj.", "meaning": "inactive, at rest"}, {"number": 1105, "word": "quixotic", "word_type": "adj.", "meaning": "foolishly idealistic"}, {"number": 1106, "word": "quotidian", "word_type": "adj.", "meaning": "ordinary; occurring every day"}, {"number": 1108, "word": "rankle", "word_type": "v.", "meaning": "to cause long-lasting anger or annoyance"}, {"number": 1109, "word": "rapacious", "word_type": "adj.", "meaning": "aggressively greedy"}, {"number": 1110, "word": "recalcitrant", "word_type": "adj.", "meaning": "stubbornly resistant to authority or control"}, {"number": 1111, "word": "recondite", "word_type": "adj.", "meaning": "not well-known; hard to understand"}, {"number": 1112, "word": "rectitude", "word_type": "n.", "meaning": "honesty and moral correctness"}]
+[
+  {
+    "number": 1093,
+    "word": "prolix",
+    "word_type": "adj.",
+    "meaning": "using too many words"
+  },
+  {
+    "number": 1093,
+    "word": "prolixity",
+    "word_type": "n.",
+    "meaning": "the quality of being excessively wordy"
+  },
+  {
+    "number": 1094,
+    "word": "promulgate",
+    "word_type": "v.",
+    "meaning": "to make widely known"
+  },
+  {
+    "number": 1095,
+    "word": "propitious",
+    "word_type": "adj.",
+    "meaning": "indicating future success, favorable or promising"
+  },
+  {
+    "number": 1096,
+    "word": "prosaic",
+    "word_type": "adj.",
+    "meaning": "ordinary or unimaginative"
+  },
+  {
+    "number": 1097,
+    "word": "proscribe",
+    "word_type": "v.",
+    "meaning": "to forbid or prohibit"
+  },
+  {
+    "number": 1098,
+    "word": "protean",
+    "word_type": "adj.",
+    "meaning": "changing easily or frequently; versatile"
+  },
+  {
+    "number": 1099,
+    "word": "provident",
+    "word_type": "adj.",
+    "meaning": "providing for the future"
+  },
+  {
+    "number": 1100,
+    "word": "puerile",
+    "word_type": "adj.",
+    "meaning": "childishly silly"
+  },
+  {
+    "number": 1101,
+    "word": "pugnacious",
+    "word_type": "adj.",
+    "meaning": "eager to fight or argue"
+  },
+  {
+    "number": 1102,
+    "word": "punctilious",
+    "word_type": "adj.",
+    "meaning": "showing great attention to detail or correct behavior"
+  },
+  {
+    "number": 1103,
+    "word": "quash",
+    "word_type": "v.",
+    "meaning": "to put an end to"
+  },
+  {
+    "number": 1104,
+    "word": "quiescent",
+    "word_type": "adj.",
+    "meaning": "inactive, at rest"
+  },
+  {
+    "number": 1105,
+    "word": "quixotic",
+    "word_type": "adj.",
+    "meaning": "foolishly idealistic"
+  },
+  {
+    "number": 1106,
+    "word": "quotidian",
+    "word_type": "adj.",
+    "meaning": "ordinary; occurring every day"
+  },
+  {
+    "number": 1108,
+    "word": "rankle",
+    "word_type": "v.",
+    "meaning": "to cause long-lasting anger or annoyance"
+  },
+  {
+    "number": 1109,
+    "word": "rapacious",
+    "word_type": "adj.",
+    "meaning": "aggressively greedy"
+  },
+  {
+    "number": 1110,
+    "word": "recalcitrant",
+    "word_type": "adj.",
+    "meaning": "stubbornly resistant to authority or control"
+  },
+  {
+    "number": 1111,
+    "word": "recondite",
+    "word_type": "adj.",
+    "meaning": "not well-known; hard to understand"
+  },
+  {
+    "number": 1112,
+    "word": "rectitude",
+    "word_type": "n.",
+    "meaning": "honesty and moral correctness"
+  }
+]

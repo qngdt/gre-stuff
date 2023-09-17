@@ -1,1 +1,110 @@
-[{"number": 857, "word": "surreal", "word_type": "adj.", "meaning": "so bizarre that it doesn\u2019t seem real, dreamlike"}, {"number": 858, "word": "surreptitious", "word_type": "adj.", "meaning": "done secretly"}, {"number": 859, "word": "sycophant", "word_type": "n.", "meaning": "a suck-up"}, {"number": 860, "word": "synonymous", "word_type": "adj.", "meaning": "basically the same in meaning or implication"}, {"number": 861, "word": "taboo", "word_type": "n.", "meaning": "something that is not socially acceptable to do or talk about, or a prohibition on such a thing"}, {"number": 862, "word": "tacit", "word_type": "adj.", "meaning": "understood without being stated"}, {"number": 863, "word": "tact", "word_type": "n.", "meaning": "skillful inoffensiveness in speech or manners, esp. when dealing with sensitive issues"}, {"number": 864, "word": "tangential", "word_type": "adj.", "meaning": "slightly or indirectly related; of minor or secondary importance or relevance"}, {"number": 865, "word": "temper", "word_type": "n.", "meaning": "to make less extreme or balance out by adding something else"}, {"number": 866, "word": "temperate", "word_type": "adj.", "meaning": "mild or moderate, not extreme"}, {"number": 867, "word": "tenable", "word_type": "adj.", "meaning": "able to be maintained or defended"}, {"number": 868, "word": "titillate", "word_type": "v.", "meaning": "to interest or excite, esp. in a sexual way"}, {"number": 869, "word": "transfix", "word_type": "v.", "meaning": "to render motionless, as with amazement, fear, etc."}, {"number": 870, "word": "transgression", "word_type": "n.", "meaning": "a violation of a law, rule, or code of conduct"}, {"number": 871, "word": "transient", "word_type": "adj.", "meaning": "short-lived, passing"}, {"number": 872, "word": "transitory", "word_type": "adj.", "meaning": "temporary"}, {"number": 873, "word": "treacherous", "word_type": "adj.", "meaning": "involving betrayal; having hidden dangers"}, {"number": 873, "word": "treachery", "word_type": "n.", "meaning": "betrayal"}]
+[
+  {
+    "number": 857,
+    "word": "surreal",
+    "word_type": "adj.",
+    "meaning": "so bizarre that it doesn'2019t seem real, dreamlike"
+  },
+  {
+    "number": 858,
+    "word": "surreptitious",
+    "word_type": "adj.",
+    "meaning": "done secretly"
+  },
+  {
+    "number": 859,
+    "word": "sycophant",
+    "word_type": "n.",
+    "meaning": "a suck-up"
+  },
+  {
+    "number": 860,
+    "word": "synonymous",
+    "word_type": "adj.",
+    "meaning": "basically the same in meaning or implication"
+  },
+  {
+    "number": 861,
+    "word": "taboo",
+    "word_type": "n.",
+    "meaning": "something that is not socially acceptable to do or talk about, or a prohibition on such a thing"
+  },
+  {
+    "number": 862,
+    "word": "tacit",
+    "word_type": "adj.",
+    "meaning": "understood without being stated"
+  },
+  {
+    "number": 863,
+    "word": "tact",
+    "word_type": "n.",
+    "meaning": "skillful inoffensiveness in speech or manners, esp. when dealing with sensitive issues"
+  },
+  {
+    "number": 864,
+    "word": "tangential",
+    "word_type": "adj.",
+    "meaning": "slightly or indirectly related; of minor or secondary importance or relevance"
+  },
+  {
+    "number": 865,
+    "word": "temper",
+    "word_type": "n.",
+    "meaning": "to make less extreme or balance out by adding something else"
+  },
+  {
+    "number": 866,
+    "word": "temperate",
+    "word_type": "adj.",
+    "meaning": "mild or moderate, not extreme"
+  },
+  {
+    "number": 867,
+    "word": "tenable",
+    "word_type": "adj.",
+    "meaning": "able to be maintained or defended"
+  },
+  {
+    "number": 868,
+    "word": "titillate",
+    "word_type": "v.",
+    "meaning": "to interest or excite, esp. in a sexual way"
+  },
+  {
+    "number": 869,
+    "word": "transfix",
+    "word_type": "v.",
+    "meaning": "to render motionless, as with amazement, fear, etc."
+  },
+  {
+    "number": 870,
+    "word": "transgression",
+    "word_type": "n.",
+    "meaning": "a violation of a law, rule, or code of conduct"
+  },
+  {
+    "number": 871,
+    "word": "transient",
+    "word_type": "adj.",
+    "meaning": "short-lived, passing"
+  },
+  {
+    "number": 872,
+    "word": "transitory",
+    "word_type": "adj.",
+    "meaning": "temporary"
+  },
+  {
+    "number": 873,
+    "word": "treacherous",
+    "word_type": "adj.",
+    "meaning": "involving betrayal; having hidden dangers"
+  },
+  {
+    "number": 873,
+    "word": "treachery",
+    "word_type": "n.",
+    "meaning": "betrayal"
+  }
+]

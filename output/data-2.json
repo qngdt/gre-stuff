@@ -1,1 +1,122 @@
-[{"number": 18, "word": "aggregate", "word_type": "adj.", "meaning": "total"}, {"number": 18, "word": "aggregate", "word_type": "v.", "meaning": "to total; to gather into a whole"}, {"number": 18, "word": "aggregate", "word_type": "n.", "meaning": "a sum total"}, {"number": 19, "word": "aghast", "word_type": "adj.", "meaning": "shocked and horri\ufb01ed"}, {"number": 20, "word": "agile", "word_type": "adj.", "meaning": "able to move quickly and easily (of the body or mind)"}, {"number": 20, "word": "agility", "word_type": "n.", "meaning": "ability to move quickly and easily"}, {"number": 21, "word": "alarming", "word_type": "adj.", "meaning": "worrying, troubling"}, {"number": 22, "word": "alienate", "word_type": "v.", "meaning": "to make someone feel isolated, unfriendly, or uninterested"}, {"number": 24, "word": "alleviate", "word_type": "v.", "meaning": "to make less severe or painful"}, {"number": 25, "word": "aloof", "word_type": "adj.", "meaning": "not sociable or friendly toward others"}, {"number": 26, "word": "altruistic", "word_type": "adj.", "meaning": "unsel\ufb01shly concerend with the welfare of others"}, {"number": 26, "word": "altruism", "word_type": "n.", "meaning": "actions that show unsel\ufb01sh concern for the welfare of others"}, {"number": 27, "word": "amateur", "word_type": "adj.", "meaning": "nonprofessional, inexpert"}, {"number": 27, "word": "amateur", "word_type": "n.", "meaning": "a nonprofessional"}, {"number": 28, "word": "ambivalent", "word_type": "adj.", "meaning": "having mixed feelings, uncertain"}, {"number": 29, "word": "ameliorate", "word_type": "v.", "meaning": "to make better"}, {"number": 30, "word": "amenable", "word_type": "adj.", "meaning": "open to suggestion or persuasion, receptive"}, {"number": 31, "word": "amend", "word_type": "v.", "meaning": "to alter something in order to make it better or update it"}, {"number": 32, "word": "amiable", "word_type": "adj.", "meaning": "friendly and pleasant"}, {"number": 33, "word": "amicable", "word_type": "adj.", "meaning": "friendly and good-natured, not prone to disagreement"}]
+[
+  {
+    "number": 18,
+    "word": "aggregate",
+    "word_type": "adj.",
+    "meaning": "total"
+  },
+  {
+    "number": 18,
+    "word": "aggregate",
+    "word_type": "v.",
+    "meaning": "to total; to gather into a whole"
+  },
+  {
+    "number": 18,
+    "word": "aggregate",
+    "word_type": "n.",
+    "meaning": "a sum total"
+  },
+  {
+    "number": 19,
+    "word": "aghast",
+    "word_type": "adj.",
+    "meaning": "shocked and horrified"
+  },
+  {
+    "number": 20,
+    "word": "agile",
+    "word_type": "adj.",
+    "meaning": "able to move quickly and easily (of the body or mind)"
+  },
+  {
+    "number": 20,
+    "word": "agility",
+    "word_type": "n.",
+    "meaning": "ability to move quickly and easily"
+  },
+  {
+    "number": 21,
+    "word": "alarming",
+    "word_type": "adj.",
+    "meaning": "worrying, troubling"
+  },
+  {
+    "number": 22,
+    "word": "alienate",
+    "word_type": "v.",
+    "meaning": "to make someone feel isolated, unfriendly, or uninterested"
+  },
+  {
+    "number": 24,
+    "word": "alleviate",
+    "word_type": "v.",
+    "meaning": "to make less severe or painful"
+  },
+  {
+    "number": 25,
+    "word": "aloof",
+    "word_type": "adj.",
+    "meaning": "not sociable or friendly toward others"
+  },
+  {
+    "number": 26,
+    "word": "altruistic",
+    "word_type": "adj.",
+    "meaning": "unselfishly concerend with the welfare of others"
+  },
+  {
+    "number": 26,
+    "word": "altruism",
+    "word_type": "n.",
+    "meaning": "actions that show unselfish concern for the welfare of others"
+  },
+  {
+    "number": 27,
+    "word": "amateur",
+    "word_type": "adj.",
+    "meaning": "nonprofessional, inexpert"
+  },
+  {
+    "number": 27,
+    "word": "amateur",
+    "word_type": "n.",
+    "meaning": "a nonprofessional"
+  },
+  {
+    "number": 28,
+    "word": "ambivalent",
+    "word_type": "adj.",
+    "meaning": "having mixed feelings, uncertain"
+  },
+  {
+    "number": 29,
+    "word": "ameliorate",
+    "word_type": "v.",
+    "meaning": "to make better"
+  },
+  {
+    "number": 30,
+    "word": "amenable",
+    "word_type": "adj.",
+    "meaning": "open to suggestion or persuasion, receptive"
+  },
+  {
+    "number": 31,
+    "word": "amend",
+    "word_type": "v.",
+    "meaning": "to alter something in order to make it better or update it"
+  },
+  {
+    "number": 32,
+    "word": "amiable",
+    "word_type": "adj.",
+    "meaning": "friendly and pleasant"
+  },
+  {
+    "number": 33,
+    "word": "amicable",
+    "word_type": "adj.",
+    "meaning": "friendly and good-natured, not prone to disagreement"
+  }
+]

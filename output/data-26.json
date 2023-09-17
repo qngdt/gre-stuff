@@ -1,1 +1,104 @@
-[{"number": 425, "word": "re\ufb01ned", "word_type": "adj.", "meaning": "well-mannered and cultured"}, {"number": 426, "word": "refrain", "word_type": "v.", "meaning": "to hold back from doing something"}, {"number": 427, "word": "refuge", "word_type": "n.", "meaning": "a safe place, a shelter"}, {"number": 428, "word": "refute", "word_type": "v.", "meaning": "to disprove or deny"}, {"number": 429, "word": "relish", "word_type": "v.", "meaning": "to greatly enjoy"}, {"number": 430, "word": "reminisce", "word_type": "v.", "meaning": "to recall or recount a memorable past experience, esp. an enjoyable one"}, {"number": 431, "word": "rendition", "word_type": "n.", "meaning": "a performance or interpretation, a version"}, {"number": 432, "word": "renowned", "word_type": "adj.", "meaning": "well-known and admired"}, {"number": 433, "word": "repercussion", "word_type": "n.", "meaning": "a consequence, esp. a negative one"}, {"number": 434, "word": "reprimand", "word_type": "v.", "meaning": "to scold"}, {"number": 435, "word": "resolute", "word_type": "adj.", "meaning": "determined, purposeful (of a person)"}, {"number": 436, "word": "revoke", "word_type": "v.", "meaning": "to cancel or take back something that is already in effect"}, {"number": 437, "word": "revolutionize", "word_type": "v.", "meaning": "to change greatly or completely"}, {"number": 438, "word": "ridicule", "word_type": "v.", "meaning": "to make fun of in a cruel or harsh way"}, {"number": 439, "word": "rigorous", "word_type": "adj.", "meaning": "very strict, thorough, or demanding"}, {"number": 440, "word": "riveting", "word_type": "adj.", "meaning": "completely fascinating"}, {"number": 441, "word": "robust", "word_type": "adj.", "meaning": "strong and healthy"}]
+[
+  {
+    "number": 425,
+    "word": "refined",
+    "word_type": "adj.",
+    "meaning": "well-mannered and cultured"
+  },
+  {
+    "number": 426,
+    "word": "refrain",
+    "word_type": "v.",
+    "meaning": "to hold back from doing something"
+  },
+  {
+    "number": 427,
+    "word": "refuge",
+    "word_type": "n.",
+    "meaning": "a safe place, a shelter"
+  },
+  {
+    "number": 428,
+    "word": "refute",
+    "word_type": "v.",
+    "meaning": "to disprove or deny"
+  },
+  {
+    "number": 429,
+    "word": "relish",
+    "word_type": "v.",
+    "meaning": "to greatly enjoy"
+  },
+  {
+    "number": 430,
+    "word": "reminisce",
+    "word_type": "v.",
+    "meaning": "to recall or recount a memorable past experience, esp. an enjoyable one"
+  },
+  {
+    "number": 431,
+    "word": "rendition",
+    "word_type": "n.",
+    "meaning": "a performance or interpretation, a version"
+  },
+  {
+    "number": 432,
+    "word": "renowned",
+    "word_type": "adj.",
+    "meaning": "well-known and admired"
+  },
+  {
+    "number": 433,
+    "word": "repercussion",
+    "word_type": "n.",
+    "meaning": "a consequence, esp. a negative one"
+  },
+  {
+    "number": 434,
+    "word": "reprimand",
+    "word_type": "v.",
+    "meaning": "to scold"
+  },
+  {
+    "number": 435,
+    "word": "resolute",
+    "word_type": "adj.",
+    "meaning": "determined, purposeful (of a person)"
+  },
+  {
+    "number": 436,
+    "word": "revoke",
+    "word_type": "v.",
+    "meaning": "to cancel or take back something that is already in effect"
+  },
+  {
+    "number": 437,
+    "word": "revolutionize",
+    "word_type": "v.",
+    "meaning": "to change greatly or completely"
+  },
+  {
+    "number": 438,
+    "word": "ridicule",
+    "word_type": "v.",
+    "meaning": "to make fun of in a cruel or harsh way"
+  },
+  {
+    "number": 439,
+    "word": "rigorous",
+    "word_type": "adj.",
+    "meaning": "very strict, thorough, or demanding"
+  },
+  {
+    "number": 440,
+    "word": "riveting",
+    "word_type": "adj.",
+    "meaning": "completely fascinating"
+  },
+  {
+    "number": 441,
+    "word": "robust",
+    "word_type": "adj.",
+    "meaning": "strong and healthy"
+  }
+]

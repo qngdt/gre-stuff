@@ -1,1 +1,122 @@
-[{"number": 270, "word": "iconic", "word_type": "adj.", "meaning": "widely recognized; very well-known, esp. for excellence"}, {"number": 271, "word": "ideological", "word_type": "adj.", "meaning": "relating to or based on a system of beliefs"}, {"number": 271, "word": "ideology", "word_type": "n.", "meaning": "a group\u2019s set of beliefs"}, {"number": 272, "word": "illusory", "word_type": "adj.", "meaning": "based on something that is not true or real"}, {"number": 273, "word": "imminent", "word_type": "adj.", "meaning": "about to happen"}, {"number": 274, "word": "immoderate", "word_type": "adj.", "meaning": "excessive, exceeding a reasonable or suitable amount"}, {"number": 275, "word": "impair", "word_type": "v.", "meaning": "to lessen the ability, quality, or function of"}, {"number": 276, "word": "impartial", "word_type": "adj.", "meaning": "not favoring one side over another, treating or affecting all equally"}, {"number": 277, "word": "impassioned", "word_type": "adj.", "meaning": "filled with or showing intense emotion"}, {"number": 278, "word": "impede", "word_type": "v.", "meaning": "to block or delay, to get in the way of"}, {"number": 279, "word": "impending", "word_type": "adj.", "meaning": "happening soon, upcoming"}, {"number": 280, "word": "incite", "word_type": "v.", "meaning": "to provoke, encourage, or urge (of a harmful, violent, or angry action or feeling)"}, {"number": 281, "word": "inconsequential", "word_type": "adj.", "meaning": "not important"}, {"number": 282, "word": "indifferent", "word_type": "adj.", "meaning": "not interested in or concerned about something; having no preference"}, {"number": 283, "word": "indignant", "word_type": "adj.", "meaning": "angry about something unfair or wrong"}, {"number": 284, "word": "induce", "word_type": "v.", "meaning": "to influence someone to do something; to bring about, cause"}, {"number": 285, "word": "industrious", "word_type": "adj.", "meaning": "hard-working"}, {"number": 286, "word": "inept", "word_type": "adj.", "meaning": "without skill; clumsy or incompetent"}, {"number": 286, "word": "ineptitude", "word_type": "n.", "meaning": "lack of skill or ability"}, {"number": 287, "word": "inexplicable", "word_type": "adj.", "meaning": "unexplainable"}]
+[
+  {
+    "number": 270,
+    "word": "iconic",
+    "word_type": "adj.",
+    "meaning": "widely recognized; very well-known, esp. for excellence"
+  },
+  {
+    "number": 271,
+    "word": "ideological",
+    "word_type": "adj.",
+    "meaning": "relating to or based on a system of beliefs"
+  },
+  {
+    "number": 271,
+    "word": "ideology",
+    "word_type": "n.",
+    "meaning": "a group'2019s set of beliefs"
+  },
+  {
+    "number": 272,
+    "word": "illusory",
+    "word_type": "adj.",
+    "meaning": "based on something that is not true or real"
+  },
+  {
+    "number": 273,
+    "word": "imminent",
+    "word_type": "adj.",
+    "meaning": "about to happen"
+  },
+  {
+    "number": 274,
+    "word": "immoderate",
+    "word_type": "adj.",
+    "meaning": "excessive, exceeding a reasonable or suitable amount"
+  },
+  {
+    "number": 275,
+    "word": "impair",
+    "word_type": "v.",
+    "meaning": "to lessen the ability, quality, or function of"
+  },
+  {
+    "number": 276,
+    "word": "impartial",
+    "word_type": "adj.",
+    "meaning": "not favoring one side over another, treating or affecting all equally"
+  },
+  {
+    "number": 277,
+    "word": "impassioned",
+    "word_type": "adj.",
+    "meaning": "filled with or showing intense emotion"
+  },
+  {
+    "number": 278,
+    "word": "impede",
+    "word_type": "v.",
+    "meaning": "to block or delay, to get in the way of"
+  },
+  {
+    "number": 279,
+    "word": "impending",
+    "word_type": "adj.",
+    "meaning": "happening soon, upcoming"
+  },
+  {
+    "number": 280,
+    "word": "incite",
+    "word_type": "v.",
+    "meaning": "to provoke, encourage, or urge (of a harmful, violent, or angry action or feeling)"
+  },
+  {
+    "number": 281,
+    "word": "inconsequential",
+    "word_type": "adj.",
+    "meaning": "not important"
+  },
+  {
+    "number": 282,
+    "word": "indifferent",
+    "word_type": "adj.",
+    "meaning": "not interested in or concerned about something; having no preference"
+  },
+  {
+    "number": 283,
+    "word": "indignant",
+    "word_type": "adj.",
+    "meaning": "angry about something unfair or wrong"
+  },
+  {
+    "number": 284,
+    "word": "induce",
+    "word_type": "v.",
+    "meaning": "to influence someone to do something; to bring about, cause"
+  },
+  {
+    "number": 285,
+    "word": "industrious",
+    "word_type": "adj.",
+    "meaning": "hard-working"
+  },
+  {
+    "number": 286,
+    "word": "inept",
+    "word_type": "adj.",
+    "meaning": "without skill; clumsy or incompetent"
+  },
+  {
+    "number": 286,
+    "word": "ineptitude",
+    "word_type": "n.",
+    "meaning": "lack of skill or ability"
+  },
+  {
+    "number": 287,
+    "word": "inexplicable",
+    "word_type": "adj.",
+    "meaning": "unexplainable"
+  }
+]

@@ -1,1 +1,104 @@
-[{"number": 34, "word": "ample", "word_type": "adj.", "meaning": "plenty, more than enough; generously large"}, {"number": 35, "word": "amplify", "word_type": "v.", "meaning": "to make louder, to increase the amount or importance of"}, {"number": 36, "word": "anecdotal", "word_type": "adj.", "meaning": "based on personal accounts"}, {"number": 37, "word": "animosity", "word_type": "n.", "meaning": "strong dislike, hatred"}, {"number": 38, "word": "antagonistic", "word_type": "adj.", "meaning": "hostile, opposed"}, {"number": 39, "word": "antiquated", "word_type": "adj.", "meaning": "outdated, old-fashioned"}, {"number": 40, "word": "apathetic", "word_type": "adj.", "meaning": "uninterested and showing little emotion"}, {"number": 41, "word": "appall", "word_type": "v.", "meaning": "to shock and disgust"}, {"number": 42, "word": "appease", "word_type": "v.", "meaning": "to calm or soothe, esp. by giving something desired"}, {"number": 43, "word": "apprehensive", "word_type": "adj.", "meaning": "fearful and nervous"}, {"number": 44, "word": "appropriate", "word_type": "v.", "meaning": "to take for one\u2019s own use; to put toward a particular use"}, {"number": 45, "word": "apt", "word_type": "adj.", "meaning": "suitable, appropriate; having a tendency (to do something)"}, {"number": 46, "word": "archaic", "word_type": "adj.", "meaning": "old and primitive, old-fashioned"}, {"number": 47, "word": "ascertain", "word_type": "v.", "meaning": "to determine with certainty"}, {"number": 48, "word": "arduous", "word_type": "adj.", "meaning": "requiring great effort, difficult and tiring"}, {"number": 49, "word": "arresting", "word_type": "adj.", "meaning": "capturing one\u2019s attention"}, {"number": 50, "word": "assertive", "word_type": "adj.", "meaning": "forceful and confident"}]
+[
+  {
+    "number": 34,
+    "word": "ample",
+    "word_type": "adj.",
+    "meaning": "plenty, more than enough; generously large"
+  },
+  {
+    "number": 35,
+    "word": "amplify",
+    "word_type": "v.",
+    "meaning": "to make louder, to increase the amount or importance of"
+  },
+  {
+    "number": 36,
+    "word": "anecdotal",
+    "word_type": "adj.",
+    "meaning": "based on personal accounts"
+  },
+  {
+    "number": 37,
+    "word": "animosity",
+    "word_type": "n.",
+    "meaning": "strong dislike, hatred"
+  },
+  {
+    "number": 38,
+    "word": "antagonistic",
+    "word_type": "adj.",
+    "meaning": "hostile, opposed"
+  },
+  {
+    "number": 39,
+    "word": "antiquated",
+    "word_type": "adj.",
+    "meaning": "outdated, old-fashioned"
+  },
+  {
+    "number": 40,
+    "word": "apathetic",
+    "word_type": "adj.",
+    "meaning": "uninterested and showing little emotion"
+  },
+  {
+    "number": 41,
+    "word": "appall",
+    "word_type": "v.",
+    "meaning": "to shock and disgust"
+  },
+  {
+    "number": 42,
+    "word": "appease",
+    "word_type": "v.",
+    "meaning": "to calm or soothe, esp. by giving something desired"
+  },
+  {
+    "number": 43,
+    "word": "apprehensive",
+    "word_type": "adj.",
+    "meaning": "fearful and nervous"
+  },
+  {
+    "number": 44,
+    "word": "appropriate",
+    "word_type": "v.",
+    "meaning": "to take for one'2019s own use; to put toward a particular use"
+  },
+  {
+    "number": 45,
+    "word": "apt",
+    "word_type": "adj.",
+    "meaning": "suitable, appropriate; having a tendency (to do something)"
+  },
+  {
+    "number": 46,
+    "word": "archaic",
+    "word_type": "adj.",
+    "meaning": "old and primitive, old-fashioned"
+  },
+  {
+    "number": 47,
+    "word": "ascertain",
+    "word_type": "v.",
+    "meaning": "to determine with certainty"
+  },
+  {
+    "number": 48,
+    "word": "arduous",
+    "word_type": "adj.",
+    "meaning": "requiring great effort, difficult and tiring"
+  },
+  {
+    "number": 49,
+    "word": "arresting",
+    "word_type": "adj.",
+    "meaning": "capturing one'2019s attention"
+  },
+  {
+    "number": 50,
+    "word": "assertive",
+    "word_type": "adj.",
+    "meaning": "forceful and confident"
+  }
+]

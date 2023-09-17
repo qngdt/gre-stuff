@@ -1,1 +1,80 @@
-[{"number": 85, "word": "captivating", "word_type": "adj.", "meaning": "holding one\u2019s attention or interest"}, {"number": 86, "word": "celestial", "word_type": "adj.", "meaning": "of or relating to the sky or heaven"}, {"number": 87, "word": "cerebral", "word_type": "adj.", "meaning": "relating to the brain; intellectual"}, {"number": 88, "word": "certitude", "word_type": "n.", "meaning": "certainty"}, {"number": 89, "word": "charismatic", "word_type": "adj.", "meaning": "charming and appealing"}, {"number": 90, "word": "circuitous", "word_type": "adj.", "meaning": "circular or winding, not direct"}, {"number": 91, "word": "circumvent", "word_type": "v.", "meaning": "to \ufb01nd a way around something; to cleverly avoid"}, {"number": 92, "word": "civil", "word_type": "adj.", "meaning": "relating to citizens; courteous and polite"}, {"number": 94, "word": "coerce", "word_type": "v.", "meaning": "to persuade by force or threats"}, {"number": 95, "word": "cohesive", "word_type": "adj.", "meaning": "closely united, sticking together"}, {"number": 96, "word": "coin", "word_type": "v.", "meaning": "to invent (a word or phrase)"}, {"number": 98, "word": "compelling", "word_type": "adj.", "meaning": "powerfully interesting or attention-holding; convincing"}, {"number": 99, "word": "compromise", "word_type": "v.", "meaning": "to make an agreement based on mutual concession; to weaken"}]
+[
+  {
+    "number": 85,
+    "word": "captivating",
+    "word_type": "adj.",
+    "meaning": "holding one'2019s attention or interest"
+  },
+  {
+    "number": 86,
+    "word": "celestial",
+    "word_type": "adj.",
+    "meaning": "of or relating to the sky or heaven"
+  },
+  {
+    "number": 87,
+    "word": "cerebral",
+    "word_type": "adj.",
+    "meaning": "relating to the brain; intellectual"
+  },
+  {
+    "number": 88,
+    "word": "certitude",
+    "word_type": "n.",
+    "meaning": "certainty"
+  },
+  {
+    "number": 89,
+    "word": "charismatic",
+    "word_type": "adj.",
+    "meaning": "charming and appealing"
+  },
+  {
+    "number": 90,
+    "word": "circuitous",
+    "word_type": "adj.",
+    "meaning": "circular or winding, not direct"
+  },
+  {
+    "number": 91,
+    "word": "circumvent",
+    "word_type": "v.",
+    "meaning": "to find a way around something; to cleverly avoid"
+  },
+  {
+    "number": 92,
+    "word": "civil",
+    "word_type": "adj.",
+    "meaning": "relating to citizens; courteous and polite"
+  },
+  {
+    "number": 94,
+    "word": "coerce",
+    "word_type": "v.",
+    "meaning": "to persuade by force or threats"
+  },
+  {
+    "number": 95,
+    "word": "cohesive",
+    "word_type": "adj.",
+    "meaning": "closely united, sticking together"
+  },
+  {
+    "number": 96,
+    "word": "coin",
+    "word_type": "v.",
+    "meaning": "to invent (a word or phrase)"
+  },
+  {
+    "number": 98,
+    "word": "compelling",
+    "word_type": "adj.",
+    "meaning": "powerfully interesting or attention-holding; convincing"
+  },
+  {
+    "number": 99,
+    "word": "compromise",
+    "word_type": "v.",
+    "meaning": "to make an agreement based on mutual concession; to weaken"
+  }
+]

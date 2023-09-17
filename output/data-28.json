@@ -1,1 +1,122 @@
-[{"number": 459, "word": "shortfall", "word_type": "(n.)", "meaning": "a failure to reach an expectation or need; a de\ufb01cit"}, {"number": 460, "word": "shortsighted", "word_type": "(adj.)", "meaning": "lacking thought about the future"}, {"number": 461, "word": "shrewd", "word_type": "(adj.)", "meaning": "clever, having good judgment"}, {"number": 461, "word": "shrewdness", "word_type": "(n.)", "meaning": "cleverness, good judgment"}, {"number": 462, "word": "shun", "word_type": "(v.)", "meaning": "to completely reject or habitually avoid"}, {"number": 463, "word": "skeptical", "word_type": "(adj.)", "meaning": "disbelieving, having doubts"}, {"number": 463, "word": "skepticism", "word_type": "(n.)", "meaning": "an attitude of doubt or disbelief"}, {"number": 464, "word": "skirt", "word_type": "(v.)", "meaning": "to avoid, to go around; to border"}, {"number": 465, "word": "skittish", "word_type": "(adj.)", "meaning": "easily frightened, nervous or fearful"}, {"number": 466, "word": "slander", "word_type": "(n.)", "meaning": "a false statement that damages someone\u2019s reputation"}, {"number": 466, "word": "slander", "word_type": "(v.)", "meaning": "to make a false and damaging statement about someone"}, {"number": 467, "word": "sluggish", "word_type": "(adj.)", "meaning": "slow-moving and lacking energy"}, {"number": 468, "word": "smug", "word_type": "(adj.)", "meaning": "overly pleased and satis\ufb01ed with oneself"}, {"number": 469, "word": "solicit", "word_type": "(v.)", "meaning": "to ask for"}, {"number": 470, "word": "somber", "word_type": "(adj.)", "meaning": "very serious and sad, gloomy"}, {"number": 471, "word": "sophisticated", "word_type": "(adj.)", "meaning": "showing knowledge of arts and culture and/or experience in the ways of the world; highly developed, complex"}, {"number": 472, "word": "sound", "word_type": "(adj.)", "meaning": "logical and sensible; stable and reliable"}, {"number": 473, "word": "spare", "word_type": "(adj.)", "meaning": "extra; not plentiful"}, {"number": 474, "word": "sparing", "word_type": "(adj.)", "meaning": "not using or giving much"}, {"number": 475, "word": "sparse", "word_type": "(adj.)", "meaning": "scattered and few"}]
+[
+  {
+    "number": 459,
+    "word": "shortfall",
+    "word_type": "(n.)",
+    "meaning": "a failure to reach an expectation or need; a deficit"
+  },
+  {
+    "number": 460,
+    "word": "shortsighted",
+    "word_type": "(adj.)",
+    "meaning": "lacking thought about the future"
+  },
+  {
+    "number": 461,
+    "word": "shrewd",
+    "word_type": "(adj.)",
+    "meaning": "clever, having good judgment"
+  },
+  {
+    "number": 461,
+    "word": "shrewdness",
+    "word_type": "(n.)",
+    "meaning": "cleverness, good judgment"
+  },
+  {
+    "number": 462,
+    "word": "shun",
+    "word_type": "(v.)",
+    "meaning": "to completely reject or habitually avoid"
+  },
+  {
+    "number": 463,
+    "word": "skeptical",
+    "word_type": "(adj.)",
+    "meaning": "disbelieving, having doubts"
+  },
+  {
+    "number": 463,
+    "word": "skepticism",
+    "word_type": "(n.)",
+    "meaning": "an attitude of doubt or disbelief"
+  },
+  {
+    "number": 464,
+    "word": "skirt",
+    "word_type": "(v.)",
+    "meaning": "to avoid, to go around; to border"
+  },
+  {
+    "number": 465,
+    "word": "skittish",
+    "word_type": "(adj.)",
+    "meaning": "easily frightened, nervous or fearful"
+  },
+  {
+    "number": 466,
+    "word": "slander",
+    "word_type": "(n.)",
+    "meaning": "a false statement that damages someone'2019s reputation"
+  },
+  {
+    "number": 466,
+    "word": "slander",
+    "word_type": "(v.)",
+    "meaning": "to make a false and damaging statement about someone"
+  },
+  {
+    "number": 467,
+    "word": "sluggish",
+    "word_type": "(adj.)",
+    "meaning": "slow-moving and lacking energy"
+  },
+  {
+    "number": 468,
+    "word": "smug",
+    "word_type": "(adj.)",
+    "meaning": "overly pleased and satisfied with oneself"
+  },
+  {
+    "number": 469,
+    "word": "solicit",
+    "word_type": "(v.)",
+    "meaning": "to ask for"
+  },
+  {
+    "number": 470,
+    "word": "somber",
+    "word_type": "(adj.)",
+    "meaning": "very serious and sad, gloomy"
+  },
+  {
+    "number": 471,
+    "word": "sophisticated",
+    "word_type": "(adj.)",
+    "meaning": "showing knowledge of arts and culture and/or experience in the ways of the world; highly developed, complex"
+  },
+  {
+    "number": 472,
+    "word": "sound",
+    "word_type": "(adj.)",
+    "meaning": "logical and sensible; stable and reliable"
+  },
+  {
+    "number": 473,
+    "word": "spare",
+    "word_type": "(adj.)",
+    "meaning": "extra; not plentiful"
+  },
+  {
+    "number": 474,
+    "word": "sparing",
+    "word_type": "(adj.)",
+    "meaning": "not using or giving much"
+  },
+  {
+    "number": 475,
+    "word": "sparse",
+    "word_type": "(adj.)",
+    "meaning": "scattered and few"
+  }
+]

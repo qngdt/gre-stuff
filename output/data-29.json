@@ -1,1 +1,140 @@
-[{"number": 476, "word": "spartan", "word_type": "adj.", "meaning": "harshly simple and plain, lacking comforts"}, {"number": 477, "word": "spawn", "word_type": "v.", "meaning": "to produce, esp. in large numbers"}, {"number": 477, "word": "spawn", "word_type": "n.", "meaning": "offspring (lit. or \ufb01g.)"}, {"number": 478, "word": "specious", "word_type": "adj.", "meaning": "falsely seeming true or correct"}, {"number": 479, "word": "speculation", "word_type": "", "meaning": "a guess"}, {"number": 479, "word": "speculate", "word_type": "v.", "meaning": "to guess, to form ideas or theories about something without \ufb01rm evidence"}, {"number": 480, "word": "spendthrift", "word_type": "", "meaning": "wasteful and extravagant (of spending)"}, {"number": 481, "word": "spiteful", "word_type": "n.", "meaning": "someone who is wasteful with money"}, {"number": 481, "word": "spiteful", "word_type": "v.", "meaning": "intending to harm or annoy, esp. because of petty resentment"}, {"number": 481, "word": "spiteful", "word_type": "adj.", "meaning": "intending to harm or annoy, esp. because of petty resentment"}, {"number": 482, "word": "sporadic", "word_type": "adj.", "meaning": "occasional, infrequent"}, {"number": 483, "word": "spur", "word_type": "", "meaning": "to promote or encourage the development of, to stimulate into action"}, {"number": 484, "word": "squander", "word_type": "v.", "meaning": "to recklessly or foolishly waste"}, {"number": 485, "word": "staggering", "word_type": "adj.", "meaning": "very surprising, esp. because of largeness or impressiveness"}, {"number": 486, "word": "stagnant", "word_type": "adj.", "meaning": "not moving, \ufb02owing, or progressing"}, {"number": 486, "word": "stagnate", "word_type": "v.", "meaning": "to stop moving, \ufb02owing, or progressing"}, {"number": 487, "word": "stark", "word_type": "adj.", "meaning": "bare; very obvious or clear"}, {"number": 488, "word": "static", "word_type": "adj.", "meaning": "not moving or changing"}, {"number": 489, "word": "steadfast", "word_type": "adj.", "meaning": "loyal; unchanging"}, {"number": 490, "word": "stern", "word_type": "adj.", "meaning": "very serious and unsmiling; strict and \ufb01rm"}, {"number": 491, "word": "stigma", "word_type": "", "meaning": "something that brings shame, often unfairly"}, {"number": 491, "word": "stigmatize", "word_type": "v.", "meaning": "to describe or regard as shameful or socially unacceptable"}, {"number": 492, "word": "straightforward", "word_type": "adj.", "meaning": "honest and direct; uncomplicated"}]
+[
+  {
+    "number": 476,
+    "word": "spartan",
+    "word_type": "adj.",
+    "meaning": "harshly simple and plain, lacking comforts"
+  },
+  {
+    "number": 477,
+    "word": "spawn",
+    "word_type": "v.",
+    "meaning": "to produce, esp. in large numbers"
+  },
+  {
+    "number": 477,
+    "word": "spawn",
+    "word_type": "n.",
+    "meaning": "offspring (lit. or fig.)"
+  },
+  {
+    "number": 478,
+    "word": "specious",
+    "word_type": "adj.",
+    "meaning": "falsely seeming true or correct"
+  },
+  {
+    "number": 479,
+    "word": "speculation",
+    "word_type": "",
+    "meaning": "a guess"
+  },
+  {
+    "number": 479,
+    "word": "speculate",
+    "word_type": "v.",
+    "meaning": "to guess, to form ideas or theories about something without firm evidence"
+  },
+  {
+    "number": 480,
+    "word": "spendthrift",
+    "word_type": "",
+    "meaning": "wasteful and extravagant (of spending)"
+  },
+  {
+    "number": 481,
+    "word": "spiteful",
+    "word_type": "n.",
+    "meaning": "someone who is wasteful with money"
+  },
+  {
+    "number": 481,
+    "word": "spiteful",
+    "word_type": "v.",
+    "meaning": "intending to harm or annoy, esp. because of petty resentment"
+  },
+  {
+    "number": 481,
+    "word": "spiteful",
+    "word_type": "adj.",
+    "meaning": "intending to harm or annoy, esp. because of petty resentment"
+  },
+  {
+    "number": 482,
+    "word": "sporadic",
+    "word_type": "adj.",
+    "meaning": "occasional, infrequent"
+  },
+  {
+    "number": 483,
+    "word": "spur",
+    "word_type": "",
+    "meaning": "to promote or encourage the development of, to stimulate into action"
+  },
+  {
+    "number": 484,
+    "word": "squander",
+    "word_type": "v.",
+    "meaning": "to recklessly or foolishly waste"
+  },
+  {
+    "number": 485,
+    "word": "staggering",
+    "word_type": "adj.",
+    "meaning": "very surprising, esp. because of largeness or impressiveness"
+  },
+  {
+    "number": 486,
+    "word": "stagnant",
+    "word_type": "adj.",
+    "meaning": "not moving, 'fb02owing, or progressing"
+  },
+  {
+    "number": 486,
+    "word": "stagnate",
+    "word_type": "v.",
+    "meaning": "to stop moving, 'fb02owing, or progressing"
+  },
+  {
+    "number": 487,
+    "word": "stark",
+    "word_type": "adj.",
+    "meaning": "bare; very obvious or clear"
+  },
+  {
+    "number": 488,
+    "word": "static",
+    "word_type": "adj.",
+    "meaning": "not moving or changing"
+  },
+  {
+    "number": 489,
+    "word": "steadfast",
+    "word_type": "adj.",
+    "meaning": "loyal; unchanging"
+  },
+  {
+    "number": 490,
+    "word": "stern",
+    "word_type": "adj.",
+    "meaning": "very serious and unsmiling; strict and firm"
+  },
+  {
+    "number": 491,
+    "word": "stigma",
+    "word_type": "",
+    "meaning": "something that brings shame, often unfairly"
+  },
+  {
+    "number": 491,
+    "word": "stigmatize",
+    "word_type": "v.",
+    "meaning": "to describe or regard as shameful or socially unacceptable"
+  },
+  {
+    "number": 492,
+    "word": "straightforward",
+    "word_type": "adj.",
+    "meaning": "honest and direct; uncomplicated"
+  }
+]

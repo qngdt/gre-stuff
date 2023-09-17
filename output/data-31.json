@@ -1,1 +1,105 @@
-[{"number": 511, "word": "tedious", "word_type": "adj.", "meaning": "boring and too slow or long"}, {"number": 512, "word": "tepid", "word_type": "adj.", "meaning": "only slightly warm (lit. or \ufb01g.), half-hearted"}, {"number": 513, "word": "terse", "word_type": "adj.", "meaning": "using few words, esp. to the point of rudeness"}, {"number": 514, "word": "testament", "word_type": "n.", "meaning": "evidence that something exists or is true"}, {"number": 515, "word": "thrifty", "word_type": "adj.", "meaning": "careful in the use of money"}, {"number": 515, "word": "thrift", "word_type": "n.", "meaning": "the careful use of money and other resources"}, {"number": 516, "word": "tirade", "word_type": "n.", "meaning": "a long, angry speech"}, {"number": 517, "word": "tiresome", "word_type": "adj.", "meaning": "annoyingly boring"}, {"number": 518, "word": "tout", "word_type": "v.", "meaning": "to talk up the merits of something, to praise and promote"}, {"number": 518, "word": "tout", "word_type": "n.", "meaning": null}, {"number": 519, "word": "trailblazer", "word_type": "v.", "meaning": "Someone who is the \ufb01rst to do something, an innovator"}, {"number": 519, "word": "trailblazer", "word_type": "n.", "meaning": null}, {"number": 520, "word": "tranquil", "word_type": "adj.", "meaning": "calm, quiet, and peaceful"}, {"number": 521, "word": "transcend", "word_type": null, "meaning": null}, {"number": 522, "word": "treatise", "word_type": "v.", "meaning": "a written work discussing a subject in a thorough and systematic way"}, {"number": 522, "word": "treatise", "word_type": "n.", "meaning": null}, {"number": 523, "word": "trivial", "word_type": "adj.", "meaning": "unimportant, insigni\ufb01cant"}, {"number": 524, "word": "tyrant", "word_type": null, "meaning": null}, {"number": 525, "word": "undercut", "word_type": "n.", "meaning": null}, {"number": 525, "word": "undercut", "word_type": "v.", "meaning": "to make weaker or less effective; to sell goods or services at prices lower than competitors\u2019"}, {"number": 526, "word": "underhanded", "word_type": "adj.", "meaning": "acting or done in a secret and dishonest way; sneaky"}, {"number": 527, "word": "undermine", "word_type": null, "meaning": null}, {"number": 528, "word": "underscore", "word_type": "v.", "meaning": "to emphasize; to show to be important or true"}]
+[
+  {
+    "number": 511,
+    "word": "tedious",
+    "word_type": "adj.",
+    "meaning": "boring and too slow or long"
+  },
+  {
+    "number": 512,
+    "word": "tepid",
+    "word_type": "adj.",
+    "meaning": "only slightly warm (lit. or fig.), half-hearted"
+  },
+  {
+    "number": 513,
+    "word": "terse",
+    "word_type": "adj.",
+    "meaning": "using few words, esp. to the point of rudeness"
+  },
+  {
+    "number": 514,
+    "word": "testament",
+    "word_type": "n.",
+    "meaning": "evidence that something exists or is true"
+  },
+  {
+    "number": 515,
+    "word": "thrifty",
+    "word_type": "adj.",
+    "meaning": "careful in the use of money"
+  },
+  {
+    "number": 515,
+    "word": "thrift",
+    "word_type": "n.",
+    "meaning": "the careful use of money and other resources"
+  },
+  {
+    "number": 516,
+    "word": "tirade",
+    "word_type": "n.",
+    "meaning": "a long, angry speech"
+  },
+  {
+    "number": 517,
+    "word": "tiresome",
+    "word_type": "adj.",
+    "meaning": "annoyingly boring"
+  },
+  {
+    "number": 518,
+    "word": "tout",
+    "word_type": "v.",
+    "meaning": "to talk up the merits of something, to praise and promote"
+  },
+  { "number": 518, "word": "tout", "word_type": "n.", "meaning": null },
+  {
+    "number": 519,
+    "word": "trailblazer",
+    "word_type": "v.",
+    "meaning": "Someone who is the first to do something, an innovator"
+  },
+  { "number": 519, "word": "trailblazer", "word_type": "n.", "meaning": null },
+  {
+    "number": 520,
+    "word": "tranquil",
+    "word_type": "adj.",
+    "meaning": "calm, quiet, and peaceful"
+  },
+  { "number": 521, "word": "transcend", "word_type": null, "meaning": null },
+  {
+    "number": 522,
+    "word": "treatise",
+    "word_type": "v.",
+    "meaning": "a written work discussing a subject in a thorough and systematic way"
+  },
+  { "number": 522, "word": "treatise", "word_type": "n.", "meaning": null },
+  {
+    "number": 523,
+    "word": "trivial",
+    "word_type": "adj.",
+    "meaning": "unimportant, insignificant"
+  },
+  { "number": 524, "word": "tyrant", "word_type": null, "meaning": null },
+  { "number": 525, "word": "undercut", "word_type": "n.", "meaning": null },
+  {
+    "number": 525,
+    "word": "undercut",
+    "word_type": "v.",
+    "meaning": "to make weaker or less effective; to sell goods or services at prices lower than competitors'2019"
+  },
+  {
+    "number": 526,
+    "word": "underhanded",
+    "word_type": "adj.",
+    "meaning": "acting or done in a secret and dishonest way; sneaky"
+  },
+  { "number": 527, "word": "undermine", "word_type": null, "meaning": null },
+  {
+    "number": 528,
+    "word": "underscore",
+    "word_type": "v.",
+    "meaning": "to emphasize; to show to be important or true"
+  }
+]

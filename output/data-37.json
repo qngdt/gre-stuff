@@ -1,1 +1,122 @@
-[{"number": 602, "word": "chastise", "word_type": "v.", "meaning": "to scold severely"}, {"number": 603, "word": "chauvinism", "word_type": "n.", "meaning": "a belief that your gender or country is superior to all others"}, {"number": 603, "word": "chauvinist", "word_type": "adj.", "meaning": "biased in favor of one\u2019s own gender; excessively patriotic"}, {"number": 604, "word": "chivalrous", "word_type": "adj.", "meaning": "courteous and honorable, esp. of men toward women; gentlemanly"}, {"number": 605, "word": "circumspect", "word_type": "adj.", "meaning": "thinking carefully before acting"}, {"number": 606, "word": "clamorous", "word_type": "adj.", "meaning": "loud and noisy, esp. also insistent"}, {"number": 606, "word": "clamor", "word_type": "v.", "meaning": "to loudly call for something to happen"}, {"number": 607, "word": "clandestine", "word_type": "adj.", "meaning": "hidden or done in secret, esp. because illegal"}, {"number": 609, "word": "cloister", "word_type": "n.", "meaning": "a convent or monastery, a secluded place or state"}, {"number": 609, "word": "cloister", "word_type": "v.", "meaning": "to seclude"}, {"number": 609, "word": "cloistered", "word_type": "adj.", "meaning": "secluded, sheltered"}, {"number": 610, "word": "coalesce", "word_type": "v.", "meaning": "to come together to form a single whole"}, {"number": 611, "word": "cogent", "word_type": "adj.", "meaning": "clear and convincing, well-reasoned"}, {"number": 612, "word": "cognitive", "word_type": "adj.", "meaning": "relating to mental activities (thinking, learning, etc.)"}, {"number": 613, "word": "colloquial", "word_type": "adj.", "meaning": "conversational, used when speaking in an informal way (of language)"}, {"number": 614, "word": "commensurate", "word_type": "adj.", "meaning": "corresponding in amount or extent, proportionate"}, {"number": 615, "word": "commodi\ufb01cation", "word_type": "n.", "meaning": "the act of turning something priceless into a product that can be bought and sold"}, {"number": 615, "word": "commodify", "word_type": "v.", "meaning": "to turn into a product that can be bought and sold (of something that is generally not regarded as such)"}, {"number": 616, "word": "compendium", "word_type": "n.", "meaning": "a collection of things presented together, esp. in a book"}, {"number": 617, "word": "complacent", "word_type": "adj.", "meaning": "smugly satis\ufb01ed (with oneself or with a situation), esp. without awareness of dangers or de\ufb01ciencies"}]
+[
+  {
+    "number": 602,
+    "word": "chastise",
+    "word_type": "v.",
+    "meaning": "to scold severely"
+  },
+  {
+    "number": 603,
+    "word": "chauvinism",
+    "word_type": "n.",
+    "meaning": "a belief that your gender or country is superior to all others"
+  },
+  {
+    "number": 603,
+    "word": "chauvinist",
+    "word_type": "adj.",
+    "meaning": "biased in favor of one'2019s own gender; excessively patriotic"
+  },
+  {
+    "number": 604,
+    "word": "chivalrous",
+    "word_type": "adj.",
+    "meaning": "courteous and honorable, esp. of men toward women; gentlemanly"
+  },
+  {
+    "number": 605,
+    "word": "circumspect",
+    "word_type": "adj.",
+    "meaning": "thinking carefully before acting"
+  },
+  {
+    "number": 606,
+    "word": "clamorous",
+    "word_type": "adj.",
+    "meaning": "loud and noisy, esp. also insistent"
+  },
+  {
+    "number": 606,
+    "word": "clamor",
+    "word_type": "v.",
+    "meaning": "to loudly call for something to happen"
+  },
+  {
+    "number": 607,
+    "word": "clandestine",
+    "word_type": "adj.",
+    "meaning": "hidden or done in secret, esp. because illegal"
+  },
+  {
+    "number": 609,
+    "word": "cloister",
+    "word_type": "n.",
+    "meaning": "a convent or monastery, a secluded place or state"
+  },
+  {
+    "number": 609,
+    "word": "cloister",
+    "word_type": "v.",
+    "meaning": "to seclude"
+  },
+  {
+    "number": 609,
+    "word": "cloistered",
+    "word_type": "adj.",
+    "meaning": "secluded, sheltered"
+  },
+  {
+    "number": 610,
+    "word": "coalesce",
+    "word_type": "v.",
+    "meaning": "to come together to form a single whole"
+  },
+  {
+    "number": 611,
+    "word": "cogent",
+    "word_type": "adj.",
+    "meaning": "clear and convincing, well-reasoned"
+  },
+  {
+    "number": 612,
+    "word": "cognitive",
+    "word_type": "adj.",
+    "meaning": "relating to mental activities (thinking, learning, etc.)"
+  },
+  {
+    "number": 613,
+    "word": "colloquial",
+    "word_type": "adj.",
+    "meaning": "conversational, used when speaking in an informal way (of language)"
+  },
+  {
+    "number": 614,
+    "word": "commensurate",
+    "word_type": "adj.",
+    "meaning": "corresponding in amount or extent, proportionate"
+  },
+  {
+    "number": 615,
+    "word": "commodification",
+    "word_type": "n.",
+    "meaning": "the act of turning something priceless into a product that can be bought and sold"
+  },
+  {
+    "number": 615,
+    "word": "commodify",
+    "word_type": "v.",
+    "meaning": "to turn into a product that can be bought and sold (of something that is generally not regarded as such)"
+  },
+  {
+    "number": 616,
+    "word": "compendium",
+    "word_type": "n.",
+    "meaning": "a collection of things presented together, esp. in a book"
+  },
+  {
+    "number": 617,
+    "word": "complacent",
+    "word_type": "adj.",
+    "meaning": "smugly satisfied (with oneself or with a situation), esp. without awareness of dangers or deficiencies"
+  }
+]

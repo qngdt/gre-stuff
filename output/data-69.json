@@ -1,1 +1,56 @@
-[{"number": 1149, "word": "umbrage", "word_type": "n.", "meaning": "offense, a feeling of annoyance"}, {"number": 1150, "word": "upbraid", "word_type": "v.", "meaning": "to criticize severly, to scold"}, {"number": 1151, "word": "vapid", "word_type": "adj.", "meaning": "boring because showing no intelligence or imagination"}, {"number": 1152, "word": "venal", "word_type": "adj.", "meaning": "willing to behave dishonestly for money, corrupt"}, {"number": 1153, "word": "verisimilitude", "word_type": "n.", "meaning": "the quality of seeming true or real"}, {"number": 1154, "word": "verve", "word_type": "n.", "meaning": "energy and enthusiasm"}, {"number": 1155, "word": "vitiate", "word_type": "v.", "meaning": "to make defective or ineffective"}, {"number": 1156, "word": "vituperation", "word_type": "n.", "meaning": "angry and abusive criticism"}, {"number": 1157, "word": "yoke", "word_type": "n.", "meaning": "something oppressive or burdensome; a tie or link"}]
+[
+  {
+    "number": 1149,
+    "word": "umbrage",
+    "word_type": "n.",
+    "meaning": "offense, a feeling of annoyance"
+  },
+  {
+    "number": 1150,
+    "word": "upbraid",
+    "word_type": "v.",
+    "meaning": "to criticize severly, to scold"
+  },
+  {
+    "number": 1151,
+    "word": "vapid",
+    "word_type": "adj.",
+    "meaning": "boring because showing no intelligence or imagination"
+  },
+  {
+    "number": 1152,
+    "word": "venal",
+    "word_type": "adj.",
+    "meaning": "willing to behave dishonestly for money, corrupt"
+  },
+  {
+    "number": 1153,
+    "word": "verisimilitude",
+    "word_type": "n.",
+    "meaning": "the quality of seeming true or real"
+  },
+  {
+    "number": 1154,
+    "word": "verve",
+    "word_type": "n.",
+    "meaning": "energy and enthusiasm"
+  },
+  {
+    "number": 1155,
+    "word": "vitiate",
+    "word_type": "v.",
+    "meaning": "to make defective or ineffective"
+  },
+  {
+    "number": 1156,
+    "word": "vituperation",
+    "word_type": "n.",
+    "meaning": "angry and abusive criticism"
+  },
+  {
+    "number": 1157,
+    "word": "yoke",
+    "word_type": "n.",
+    "meaning": "something oppressive or burdensome; a tie or link"
+  }
+]

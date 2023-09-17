@@ -1,1 +1,116 @@
-[{"number": 1003, "word": "ignoble", "word_type": "adj.", "meaning": "dishonorable, shameful"}, {"number": 1004, "word": "imbue", "word_type": "v.", "meaning": "to \ufb01ll (with a feeling or quality)"}, {"number": 1005, "word": "impassive", "word_type": "adj.", "meaning": "emotionless"}, {"number": 1006, "word": "impecunious", "word_type": "adj.", "meaning": "having little or no money"}, {"number": 1007, "word": "impervious", "word_type": "adj.", "meaning": "not able to be penetrated or affected"}, {"number": 1008, "word": "impetuous", "word_type": "adj.", "meaning": "impulsive"}, {"number": 1009, "word": "implacable", "word_type": "adj.", "meaning": "not able to be satis\ufb01ed or stopped"}, {"number": 1010, "word": "impolitic", "word_type": "adj.", "meaning": "unwise, esp. in social situations"}, {"number": 1011, "word": "impugn", "word_type": "v.", "meaning": "to attack as false or questionable (a statement, motives, etc.)"}, {"number": 1012, "word": "incontrovertible", "word_type": "adj.", "meaning": "undeniable"}, {"number": 1013, "word": "indemnify", "word_type": "v.", "meaning": "to compensate for a loss or damage"}, {"number": 1014, "word": "ingenuous", "word_type": "adj.", "meaning": "innocent and trusting"}, {"number": 1015, "word": "inimical", "word_type": "adj.", "meaning": "harmful or unfriendly"}, {"number": 1016, "word": "intelligible", "word_type": "adj.", "meaning": "understandable"}, {"number": 1017, "word": "inveterate", "word_type": "adj.", "meaning": "habitual or long-established and unlikely to change"}, {"number": 1018, "word": "irascible", "word_type": "adj.", "meaning": "easily angered"}, {"number": 1019, "word": "irony", "word_type": "n.", "meaning": "a use of words that conveys the opposite of their actual meaning, esp. for humorous effect; an outcome that is the opposite of what would be expected given the situation"}, {"number": 1020, "word": "jingoistic", "word_type": "adj.", "meaning": "extremely and often aggressively nationalistic"}, {"number": 1021, "word": "kinetic", "word_type": "adj.", "meaning": "relating to motion"}]
+[
+  {
+    "number": 1003,
+    "word": "ignoble",
+    "word_type": "adj.",
+    "meaning": "dishonorable, shameful"
+  },
+  {
+    "number": 1004,
+    "word": "imbue",
+    "word_type": "v.",
+    "meaning": "to fill (with a feeling or quality)"
+  },
+  {
+    "number": 1005,
+    "word": "impassive",
+    "word_type": "adj.",
+    "meaning": "emotionless"
+  },
+  {
+    "number": 1006,
+    "word": "impecunious",
+    "word_type": "adj.",
+    "meaning": "having little or no money"
+  },
+  {
+    "number": 1007,
+    "word": "impervious",
+    "word_type": "adj.",
+    "meaning": "not able to be penetrated or affected"
+  },
+  {
+    "number": 1008,
+    "word": "impetuous",
+    "word_type": "adj.",
+    "meaning": "impulsive"
+  },
+  {
+    "number": 1009,
+    "word": "implacable",
+    "word_type": "adj.",
+    "meaning": "not able to be satisfied or stopped"
+  },
+  {
+    "number": 1010,
+    "word": "impolitic",
+    "word_type": "adj.",
+    "meaning": "unwise, esp. in social situations"
+  },
+  {
+    "number": 1011,
+    "word": "impugn",
+    "word_type": "v.",
+    "meaning": "to attack as false or questionable (a statement, motives, etc.)"
+  },
+  {
+    "number": 1012,
+    "word": "incontrovertible",
+    "word_type": "adj.",
+    "meaning": "undeniable"
+  },
+  {
+    "number": 1013,
+    "word": "indemnify",
+    "word_type": "v.",
+    "meaning": "to compensate for a loss or damage"
+  },
+  {
+    "number": 1014,
+    "word": "ingenuous",
+    "word_type": "adj.",
+    "meaning": "innocent and trusting"
+  },
+  {
+    "number": 1015,
+    "word": "inimical",
+    "word_type": "adj.",
+    "meaning": "harmful or unfriendly"
+  },
+  {
+    "number": 1016,
+    "word": "intelligible",
+    "word_type": "adj.",
+    "meaning": "understandable"
+  },
+  {
+    "number": 1017,
+    "word": "inveterate",
+    "word_type": "adj.",
+    "meaning": "habitual or long-established and unlikely to change"
+  },
+  {
+    "number": 1018,
+    "word": "irascible",
+    "word_type": "adj.",
+    "meaning": "easily angered"
+  },
+  {
+    "number": 1019,
+    "word": "irony",
+    "word_type": "n.",
+    "meaning": "a use of words that conveys the opposite of their actual meaning, esp. for humorous effect; an outcome that is the opposite of what would be expected given the situation"
+  },
+  {
+    "number": 1020,
+    "word": "jingoistic",
+    "word_type": "adj.",
+    "meaning": "extremely and often aggressively nationalistic"
+  },
+  {
+    "number": 1021,
+    "word": "kinetic",
+    "word_type": "adj.",
+    "meaning": "relating to motion"
+  }
+]

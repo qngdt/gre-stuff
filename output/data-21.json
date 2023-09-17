@@ -1,1 +1,122 @@
-[{"number": 337, "word": "monotonous", "word_type": "adj.", "meaning": "boringly repetitive or unvarying"}, {"number": 337, "word": "monotony", "word_type": "n.", "meaning": "boring sameness or repetition"}, {"number": 338, "word": "morbid", "word_type": "adj.", "meaning": "relating to death or disease; showing an interest in gloomy or disturbing things"}, {"number": 339, "word": "morose", "word_type": "adj.", "meaning": "sulky and unhappy, gloomy"}, {"number": 340, "word": "mundane", "word_type": "adj.", "meaning": "ordinary and dull"}, {"number": 341, "word": "mystify", "word_type": "v.", "meaning": "to greatly confuse (someone); to make mysterious"}, {"number": 342, "word": "na\u00efve", "word_type": "adj.", "meaning": "lacking experience or knowledge"}, {"number": 343, "word": "negligent", "word_type": "adj.", "meaning": "careless, irresponsible"}, {"number": 344, "word": "negligible", "word_type": "adj.", "meaning": "too small or unimportant to warrant attention, insigni\ufb01cant"}, {"number": 345, "word": "niche", "word_type": "n.", "meaning": "a place, job, activity, etc., for which a person or thing is best suited"}, {"number": 345, "word": "niche", "word_type": "adj.", "meaning": "appealing to a small group of people"}, {"number": 346, "word": "noble", "word_type": "adj.", "meaning": "showing good morals and ideals, admirably virtuous; of the highest social class, aristocratic"}, {"number": 347, "word": "notorious", "word_type": "adj.", "meaning": "well-known for something bad"}, {"number": 347, "word": "notoriety", "word_type": "n.", "meaning": "fame on account of a bad quality or bad deed"}, {"number": 348, "word": "novel", "word_type": "adj.", "meaning": "new and different in an interesting way"}, {"number": 349, "word": "novice", "word_type": "n.", "meaning": "a beginner"}, {"number": 350, "word": "nullify", "word_type": "v.", "meaning": "to cancel out"}, {"number": 351, "word": "oblivious", "word_type": "adj.", "meaning": "unaware"}, {"number": 352, "word": "obscure", "word_type": "adj.", "meaning": "not known by many; difficult to understand"}, {"number": 352, "word": "obscure", "word_type": "v.", "meaning": "to hide something from view, to conceal; to make difficult to understand"}]
+[
+  {
+    "number": 337,
+    "word": "monotonous",
+    "word_type": "adj.",
+    "meaning": "boringly repetitive or unvarying"
+  },
+  {
+    "number": 337,
+    "word": "monotony",
+    "word_type": "n.",
+    "meaning": "boring sameness or repetition"
+  },
+  {
+    "number": 338,
+    "word": "morbid",
+    "word_type": "adj.",
+    "meaning": "relating to death or disease; showing an interest in gloomy or disturbing things"
+  },
+  {
+    "number": 339,
+    "word": "morose",
+    "word_type": "adj.",
+    "meaning": "sulky and unhappy, gloomy"
+  },
+  {
+    "number": 340,
+    "word": "mundane",
+    "word_type": "adj.",
+    "meaning": "ordinary and dull"
+  },
+  {
+    "number": 341,
+    "word": "mystify",
+    "word_type": "v.",
+    "meaning": "to greatly confuse (someone); to make mysterious"
+  },
+  {
+    "number": 342,
+    "word": "na'00efve",
+    "word_type": "adj.",
+    "meaning": "lacking experience or knowledge"
+  },
+  {
+    "number": 343,
+    "word": "negligent",
+    "word_type": "adj.",
+    "meaning": "careless, irresponsible"
+  },
+  {
+    "number": 344,
+    "word": "negligible",
+    "word_type": "adj.",
+    "meaning": "too small or unimportant to warrant attention, insignificant"
+  },
+  {
+    "number": 345,
+    "word": "niche",
+    "word_type": "n.",
+    "meaning": "a place, job, activity, etc., for which a person or thing is best suited"
+  },
+  {
+    "number": 345,
+    "word": "niche",
+    "word_type": "adj.",
+    "meaning": "appealing to a small group of people"
+  },
+  {
+    "number": 346,
+    "word": "noble",
+    "word_type": "adj.",
+    "meaning": "showing good morals and ideals, admirably virtuous; of the highest social class, aristocratic"
+  },
+  {
+    "number": 347,
+    "word": "notorious",
+    "word_type": "adj.",
+    "meaning": "well-known for something bad"
+  },
+  {
+    "number": 347,
+    "word": "notoriety",
+    "word_type": "n.",
+    "meaning": "fame on account of a bad quality or bad deed"
+  },
+  {
+    "number": 348,
+    "word": "novel",
+    "word_type": "adj.",
+    "meaning": "new and different in an interesting way"
+  },
+  {
+    "number": 349,
+    "word": "novice",
+    "word_type": "n.",
+    "meaning": "a beginner"
+  },
+  {
+    "number": 350,
+    "word": "nullify",
+    "word_type": "v.",
+    "meaning": "to cancel out"
+  },
+  {
+    "number": 351,
+    "word": "oblivious",
+    "word_type": "adj.",
+    "meaning": "unaware"
+  },
+  {
+    "number": 352,
+    "word": "obscure",
+    "word_type": "adj.",
+    "meaning": "not known by many; difficult to understand"
+  },
+  {
+    "number": 352,
+    "word": "obscure",
+    "word_type": "v.",
+    "meaning": "to hide something from view, to conceal; to make difficult to understand"
+  }
+]

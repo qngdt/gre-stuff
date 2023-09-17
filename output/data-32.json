@@ -1,1 +1,106 @@
-[{"number": 529, "word": "understated", "word_type": "adj.", "meaning": "restrained, subtle, or modest"}, {"number": 529, "word": "understate", "word_type": "v.", "meaning": "to state that something is smaller or less important than it really is"}, {"number": 530, "word": "uniform", "word_type": "adj.", "meaning": "unvarying, all the same"}, {"number": 531, "word": "universal", "word_type": "adj.", "meaning": "existing everywhere, all-encompassing"}, {"number": 532, "word": "unseemly", "word_type": "adj.", "meaning": "not proper or appropriate (of a behavior or action)"}, {"number": 533, "word": "uphold", "word_type": "v.", "meaning": "to maintain something already in effect; to decide not to change"}, {"number": 535, "word": "vacillate", "word_type": "v.", "meaning": "to alternate between things; to go back and forth in deciding what to choose"}, {"number": 536, "word": "verbose", "word_type": "adj.", "meaning": "wordy"}, {"number": 536, "word": "verbosity", "word_type": "n.", "meaning": "wordiness"}, {"number": 538, "word": "vex", "word_type": "v.", "meaning": "to annoy"}, {"number": 538, "word": "vexation", "word_type": "n.", "meaning": "an annoyance"}, {"number": 539, "word": "viable", "word_type": "adj.", "meaning": "able to live, function, or succeed"}, {"number": 540, "word": "vibrant", "word_type": "adj.", "meaning": "bright (of color); full of life and energy"}, {"number": 541, "word": "vicarious", "word_type": "adj.", "meaning": "felt through someone else\u2019s experience"}, {"number": 542, "word": "vigorous", "word_type": "adj.", "meaning": "active, forceful, or energetic; strong and healthy"}, {"number": 542, "word": "vigor", "word_type": "n.", "meaning": "energy, force, and enthusiasm"}, {"number": 543, "word": "vindicate", "word_type": "v.", "meaning": "to free from blame; to prove right or justi\ufb01ed"}, {"number": 544, "word": "visionary", "word_type": "n.", "meaning": "a person who thinks about the future in an imaginative and insightful way"}, {"number": 544, "word": "visionary", "word_type": "adj.", "meaning": "imaginative and insightful about the future; inventive"}]
+[
+  {
+    "number": 529,
+    "word": "understated",
+    "word_type": "adj.",
+    "meaning": "restrained, subtle, or modest"
+  },
+  {
+    "number": 529,
+    "word": "understate",
+    "word_type": "v.",
+    "meaning": "to state that something is smaller or less important than it really is"
+  },
+  {
+    "number": 530,
+    "word": "uniform",
+    "word_type": "adj.",
+    "meaning": "unvarying, all the same"
+  },
+  {
+    "number": 531,
+    "word": "universal",
+    "word_type": "adj.",
+    "meaning": "existing everywhere, all-encompassing"
+  },
+  {
+    "number": 532,
+    "word": "unseemly",
+    "word_type": "adj.",
+    "meaning": "not proper or appropriate (of a behavior or action)"
+  },
+  {
+    "number": 533,
+    "word": "uphold",
+    "word_type": "v.",
+    "meaning": "to maintain something already in effect; to decide not to change"
+  },
+  {
+    "number": 535,
+    "word": "vacillate",
+    "word_type": "v.",
+    "meaning": "to alternate between things; to go back and forth in deciding what to choose"
+  },
+  { "number": 536, "word": "verbose", "word_type": "adj.", "meaning": "wordy" },
+  {
+    "number": 536,
+    "word": "verbosity",
+    "word_type": "n.",
+    "meaning": "wordiness"
+  },
+  { "number": 538, "word": "vex", "word_type": "v.", "meaning": "to annoy" },
+  {
+    "number": 538,
+    "word": "vexation",
+    "word_type": "n.",
+    "meaning": "an annoyance"
+  },
+  {
+    "number": 539,
+    "word": "viable",
+    "word_type": "adj.",
+    "meaning": "able to live, function, or succeed"
+  },
+  {
+    "number": 540,
+    "word": "vibrant",
+    "word_type": "adj.",
+    "meaning": "bright (of color); full of life and energy"
+  },
+  {
+    "number": 541,
+    "word": "vicarious",
+    "word_type": "adj.",
+    "meaning": "felt through someone else'2019s experience"
+  },
+  {
+    "number": 542,
+    "word": "vigorous",
+    "word_type": "adj.",
+    "meaning": "active, forceful, or energetic; strong and healthy"
+  },
+  {
+    "number": 542,
+    "word": "vigor",
+    "word_type": "n.",
+    "meaning": "energy, force, and enthusiasm"
+  },
+  {
+    "number": 543,
+    "word": "vindicate",
+    "word_type": "v.",
+    "meaning": "to free from blame; to prove right or justified"
+  },
+  {
+    "number": 544,
+    "word": "visionary",
+    "word_type": "n.",
+    "meaning": "a person who thinks about the future in an imaginative and insightful way"
+  },
+  {
+    "number": 544,
+    "word": "visionary",
+    "word_type": "adj.",
+    "meaning": "imaginative and insightful about the future; inventive"
+  }
+]

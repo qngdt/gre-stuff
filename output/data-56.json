@@ -1,1 +1,104 @@
-[{"number": 910, "word": "arcane", "word_type": "adj.", "meaning": "known or understood by few people, secret and mysterious"}, {"number": 911, "word": "archetype", "word_type": "n.", "meaning": "an original model or perfect example of something"}, {"number": 912, "word": "artful", "word_type": "adj.", "meaning": "clever or skillful, esp. in a dishonest way"}, {"number": 913, "word": "artless", "word_type": "adj.", "meaning": "honest and natural; without skill"}, {"number": 914, "word": "ascetic", "word_type": "adj.", "meaning": "harshly self-denying of pleasures; harshly simple and without comforts or pleasures"}, {"number": 915, "word": "assiduous", "word_type": "adj.", "meaning": "careful and persistent"}, {"number": 916, "word": "astringent", "word_type": "adj.", "meaning": "sharply acidic or bitter (lit. or \ufb01g.); harshly critical in a clever way"}, {"number": 919, "word": "aver", "word_type": "v.", "meaning": "to state that something is true"}, {"number": 920, "word": "blithe", "word_type": "adj.", "meaning": "happy and carefree"}, {"number": 922, "word": "bridle", "word_type": "n.", "meaning": "a restraint"}, {"number": 923, "word": "brook", "word_type": "v.", "meaning": "to put up with or tolerate, esp. opposition"}, {"number": 924, "word": "bucolic", "word_type": "adj.", "meaning": "pleasantly rural or relating to the countryside"}, {"number": 925, "word": "buoy", "word_type": "v.", "meaning": "to support, to uplift; to raise the spirits of"}, {"number": 926, "word": "byzantine", "word_type": "adj.", "meaning": "excessively complicated; involving devious and secretive methods"}, {"number": 927, "word": "cacophony", "word_type": "n.", "meaning": "a loud and unpleasant mix of sounds"}, {"number": 927, "word": "cacophonous", "word_type": "adj.", "meaning": "involving or producing a loud and unpleasant mix of sounds"}, {"number": 927, "word": "cajole", "word_type": "v.", "meaning": "to persuade, esp. by \ufb02attery"}]
+[
+  {
+    "number": 910,
+    "word": "arcane",
+    "word_type": "adj.",
+    "meaning": "known or understood by few people, secret and mysterious"
+  },
+  {
+    "number": 911,
+    "word": "archetype",
+    "word_type": "n.",
+    "meaning": "an original model or perfect example of something"
+  },
+  {
+    "number": 912,
+    "word": "artful",
+    "word_type": "adj.",
+    "meaning": "clever or skillful, esp. in a dishonest way"
+  },
+  {
+    "number": 913,
+    "word": "artless",
+    "word_type": "adj.",
+    "meaning": "honest and natural; without skill"
+  },
+  {
+    "number": 914,
+    "word": "ascetic",
+    "word_type": "adj.",
+    "meaning": "harshly self-denying of pleasures; harshly simple and without comforts or pleasures"
+  },
+  {
+    "number": 915,
+    "word": "assiduous",
+    "word_type": "adj.",
+    "meaning": "careful and persistent"
+  },
+  {
+    "number": 916,
+    "word": "astringent",
+    "word_type": "adj.",
+    "meaning": "sharply acidic or bitter (lit. or fig.); harshly critical in a clever way"
+  },
+  {
+    "number": 919,
+    "word": "aver",
+    "word_type": "v.",
+    "meaning": "to state that something is true"
+  },
+  {
+    "number": 920,
+    "word": "blithe",
+    "word_type": "adj.",
+    "meaning": "happy and carefree"
+  },
+  {
+    "number": 922,
+    "word": "bridle",
+    "word_type": "n.",
+    "meaning": "a restraint"
+  },
+  {
+    "number": 923,
+    "word": "brook",
+    "word_type": "v.",
+    "meaning": "to put up with or tolerate, esp. opposition"
+  },
+  {
+    "number": 924,
+    "word": "bucolic",
+    "word_type": "adj.",
+    "meaning": "pleasantly rural or relating to the countryside"
+  },
+  {
+    "number": 925,
+    "word": "buoy",
+    "word_type": "v.",
+    "meaning": "to support, to uplift; to raise the spirits of"
+  },
+  {
+    "number": 926,
+    "word": "byzantine",
+    "word_type": "adj.",
+    "meaning": "excessively complicated; involving devious and secretive methods"
+  },
+  {
+    "number": 927,
+    "word": "cacophony",
+    "word_type": "n.",
+    "meaning": "a loud and unpleasant mix of sounds"
+  },
+  {
+    "number": 927,
+    "word": "cacophonous",
+    "word_type": "adj.",
+    "meaning": "involving or producing a loud and unpleasant mix of sounds"
+  },
+  {
+    "number": 927,
+    "word": "cajole",
+    "word_type": "v.",
+    "meaning": "to persuade, esp. by 'fb02attery"
+  }
+]

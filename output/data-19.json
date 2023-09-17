@@ -1,1 +1,179 @@
-[{"number": 305, "word": "keen", "word_type": "adj.", "meaning": "sharp (of senses, intellect, or insight)", "properties": ["sharp"]}, {"number": 305, "word": "keen", "word_type": "adj.", "meaning": "eager", "properties": ["eager"]}, {"number": 306, "word": "lackluster", "word_type": "adj.", "meaning": "dull (literal and \ufb01gurative)", "properties": ["dull"]}, {"number": 307, "word": "lament", "word_type": "v.", "meaning": "to express regret, sorrow, or disappointment about", "properties": ["express regret", "express sorrow", "express disappointment"]}, {"number": 307, "word": "lamentable", "word_type": "adj.", "meaning": "regrettable", "properties": ["regrettable"]}, {"number": 308, "word": "latent", "word_type": "adj.", "meaning": "present but not yet developed, visible, or active", "properties": ["present but not developed", "present but not visible", "present but not active"]}, {"number": 309, "word": "lavish", "word_type": "adj.", "meaning": "extravagant, plentiful", "properties": ["extravagant", "plentiful"]}, {"number": 309, "word": "lavish", "word_type": "v.", "meaning": "to give a lot of", "properties": ["give a lot of"]}, {"number": 310, "word": "lax", "word_type": "adj.", "meaning": "not strict or careful enough", "properties": ["not strict", "not careful enough"]}, {"number": 311, "word": "layman", "word_type": "n.", "meaning": "a person who is not an expert or professional in a given \ufb01eld", "properties": ["not an expert", "not a professional"]}, {"number": 311, "word": "lay", "word_type": "adj.", "meaning": "non-expert, non-professional", "properties": ["non-expert", "non-professional"]}, {"number": 312, "word": "lenient", "word_type": "adj.", "meaning": "permissive, not strict", "properties": ["permissive", "not strict"]}, {"number": 313, "word": "lethargic", "word_type": "adj.", "meaning": "slow-moving and lacking energy; not interested or enthusiastic", "properties": ["slow-moving", "lacking energy", "not interested", "not enthusiastic"]}, {"number": 313, "word": "lethargy", "word_type": "n.", "meaning": "A lack of energy or interest", "properties": ["lack of energy", "lack of interest"]}, {"number": 314, "word": "loathe", "word_type": "adj.", "meaning": "to hate, esp. with feelings of disgust", "properties": ["hate", "feelings of disgust"]}, {"number": 314, "word": "loath", "word_type": "adj.", "meaning": "reluctant or unwilling", "properties": ["reluctant", "unwilling"]}, {"number": 315, "word": "lukewarm", "word_type": "adj.", "meaning": "slightly warm; not enthusiastic, half-hearted", "properties": ["slightly warm", "not enthusiastic", "half-hearted"]}, {"number": 316, "word": "lush", "word_type": "adj.", "meaning": "thickly growing; sensuously rich", "properties": ["thickly growing", "sensuously rich"]}, {"number": 317, "word": "luxury", "word_type": "n.", "meaning": "a state of wealth and comfort", "properties": ["state of wealth", "state of comfort"]}, {"number": 317, "word": "luxurious", "word_type": "adj.", "meaning": "rich, comfortable, and pleasing", "properties": ["rich", "comfortable", "pleasing"]}, {"number": 318, "word": "mainstay", "word_type": "n.", "meaning": "a person or thing serving as the main support of something", "properties": ["serving as main support"]}, {"number": 319, "word": "malicious", "word_type": "adj.", "meaning": "intending or intended to cause harm", "properties": ["intending to cause harm", "intended to cause harm"]}, {"number": 319, "word": "malice", "word_type": "n.", "meaning": "desire to cause harm", "properties": ["desire to cause harm"]}, {"number": 320, "word": "malign", "word_type": "v.", "meaning": "to say negative (often untrue) things about, to bad-mouth", "properties": ["say negative things", "say untrue things", "bad-mouth"]}]
+[
+  {
+    "number": 305,
+    "word": "keen",
+    "word_type": "adj.",
+    "meaning": "sharp (of senses, intellect, or insight)",
+    "properties": ["sharp"]
+  },
+  {
+    "number": 305,
+    "word": "keen",
+    "word_type": "adj.",
+    "meaning": "eager",
+    "properties": ["eager"]
+  },
+  {
+    "number": 306,
+    "word": "lackluster",
+    "word_type": "adj.",
+    "meaning": "dull (literal and figurative)",
+    "properties": ["dull"]
+  },
+  {
+    "number": 307,
+    "word": "lament",
+    "word_type": "v.",
+    "meaning": "to express regret, sorrow, or disappointment about",
+    "properties": ["express regret", "express sorrow", "express disappointment"]
+  },
+  {
+    "number": 307,
+    "word": "lamentable",
+    "word_type": "adj.",
+    "meaning": "regrettable",
+    "properties": ["regrettable"]
+  },
+  {
+    "number": 308,
+    "word": "latent",
+    "word_type": "adj.",
+    "meaning": "present but not yet developed, visible, or active",
+    "properties": [
+      "present but not developed",
+      "present but not visible",
+      "present but not active"
+    ]
+  },
+  {
+    "number": 309,
+    "word": "lavish",
+    "word_type": "adj.",
+    "meaning": "extravagant, plentiful",
+    "properties": ["extravagant", "plentiful"]
+  },
+  {
+    "number": 309,
+    "word": "lavish",
+    "word_type": "v.",
+    "meaning": "to give a lot of",
+    "properties": ["give a lot of"]
+  },
+  {
+    "number": 310,
+    "word": "lax",
+    "word_type": "adj.",
+    "meaning": "not strict or careful enough",
+    "properties": ["not strict", "not careful enough"]
+  },
+  {
+    "number": 311,
+    "word": "layman",
+    "word_type": "n.",
+    "meaning": "a person who is not an expert or professional in a given field",
+    "properties": ["not an expert", "not a professional"]
+  },
+  {
+    "number": 311,
+    "word": "lay",
+    "word_type": "adj.",
+    "meaning": "non-expert, non-professional",
+    "properties": ["non-expert", "non-professional"]
+  },
+  {
+    "number": 312,
+    "word": "lenient",
+    "word_type": "adj.",
+    "meaning": "permissive, not strict",
+    "properties": ["permissive", "not strict"]
+  },
+  {
+    "number": 313,
+    "word": "lethargic",
+    "word_type": "adj.",
+    "meaning": "slow-moving and lacking energy; not interested or enthusiastic",
+    "properties": [
+      "slow-moving",
+      "lacking energy",
+      "not interested",
+      "not enthusiastic"
+    ]
+  },
+  {
+    "number": 313,
+    "word": "lethargy",
+    "word_type": "n.",
+    "meaning": "A lack of energy or interest",
+    "properties": ["lack of energy", "lack of interest"]
+  },
+  {
+    "number": 314,
+    "word": "loathe",
+    "word_type": "adj.",
+    "meaning": "to hate, esp. with feelings of disgust",
+    "properties": ["hate", "feelings of disgust"]
+  },
+  {
+    "number": 314,
+    "word": "loath",
+    "word_type": "adj.",
+    "meaning": "reluctant or unwilling",
+    "properties": ["reluctant", "unwilling"]
+  },
+  {
+    "number": 315,
+    "word": "lukewarm",
+    "word_type": "adj.",
+    "meaning": "slightly warm; not enthusiastic, half-hearted",
+    "properties": ["slightly warm", "not enthusiastic", "half-hearted"]
+  },
+  {
+    "number": 316,
+    "word": "lush",
+    "word_type": "adj.",
+    "meaning": "thickly growing; sensuously rich",
+    "properties": ["thickly growing", "sensuously rich"]
+  },
+  {
+    "number": 317,
+    "word": "luxury",
+    "word_type": "n.",
+    "meaning": "a state of wealth and comfort",
+    "properties": ["state of wealth", "state of comfort"]
+  },
+  {
+    "number": 317,
+    "word": "luxurious",
+    "word_type": "adj.",
+    "meaning": "rich, comfortable, and pleasing",
+    "properties": ["rich", "comfortable", "pleasing"]
+  },
+  {
+    "number": 318,
+    "word": "mainstay",
+    "word_type": "n.",
+    "meaning": "a person or thing serving as the main support of something",
+    "properties": ["serving as main support"]
+  },
+  {
+    "number": 319,
+    "word": "malicious",
+    "word_type": "adj.",
+    "meaning": "intending or intended to cause harm",
+    "properties": ["intending to cause harm", "intended to cause harm"]
+  },
+  {
+    "number": 319,
+    "word": "malice",
+    "word_type": "n.",
+    "meaning": "desire to cause harm",
+    "properties": ["desire to cause harm"]
+  },
+  {
+    "number": 320,
+    "word": "malign",
+    "word_type": "v.",
+    "meaning": "to say negative (often untrue) things about, to bad-mouth",
+    "properties": ["say negative things", "say untrue things", "bad-mouth"]
+  }
+]

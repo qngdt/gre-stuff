@@ -1,1 +1,110 @@
-[{"number": 738, "word": "ingrained", "word_type": "adj.", "meaning": "firmly established or deeply embedded"}, {"number": 739, "word": "innocuous", "word_type": "adj.", "meaning": "harmless"}, {"number": 740, "word": "inordinate", "word_type": "adj.", "meaning": "excessive, unusually or disproportionately large"}, {"number": 741, "word": "inscrutable", "word_type": "adj.", "meaning": "impossible to understand or interpret"}, {"number": 742, "word": "insidious", "word_type": "adj.", "meaning": "harmful in a gradual or not easily noticed way"}, {"number": 743, "word": "insipid", "word_type": "adj.", "meaning": "uninteresting, unexciting"}, {"number": 744, "word": "insoluble", "word_type": "adj.", "meaning": "impossible to solve; incapable of being dissolved in liquid"}, {"number": 745, "word": "insular", "word_type": "adj.", "meaning": "interested in only one\u2019s own country or group; isolated"}, {"number": 746, "word": "interloper", "word_type": "n.", "meaning": "a person who inserts oneself into a situation in which s/he is unwelcome or doesn\u2019t belong, an intruder"}, {"number": 747, "word": "intractable", "word_type": "adj.", "meaning": "very difficult or impossible to control, manage, or solve"}, {"number": 748, "word": "intransigent", "word_type": "adj.", "meaning": "very stubborn"}, {"number": 749, "word": "intrepid", "word_type": "adj.", "meaning": "fearless, bold and brave"}, {"number": 750, "word": "intriguing", "word_type": "adj.", "meaning": "very interesting, esp. because it is mysterious; arousing curiosity"}, {"number": 751, "word": "ironclad", "word_type": "adj.", "meaning": "impossible to break or challenge (of a guarantee, argument, rule, etc.)"}, {"number": 752, "word": "irresolute", "word_type": "adj.", "meaning": "indecisive"}, {"number": 753, "word": "irreverent", "word_type": "adj.", "meaning": "lacking proper respect for people or things that are generally taken seriously"}, {"number": 754, "word": "itinerant", "word_type": "adj.", "meaning": "traveling from place to place"}, {"number": 755, "word": "judicious", "word_type": "adj.", "meaning": "showing good judgment, sensible"}]
+[
+  {
+    "number": 738,
+    "word": "ingrained",
+    "word_type": "adj.",
+    "meaning": "firmly established or deeply embedded"
+  },
+  {
+    "number": 739,
+    "word": "innocuous",
+    "word_type": "adj.",
+    "meaning": "harmless"
+  },
+  {
+    "number": 740,
+    "word": "inordinate",
+    "word_type": "adj.",
+    "meaning": "excessive, unusually or disproportionately large"
+  },
+  {
+    "number": 741,
+    "word": "inscrutable",
+    "word_type": "adj.",
+    "meaning": "impossible to understand or interpret"
+  },
+  {
+    "number": 742,
+    "word": "insidious",
+    "word_type": "adj.",
+    "meaning": "harmful in a gradual or not easily noticed way"
+  },
+  {
+    "number": 743,
+    "word": "insipid",
+    "word_type": "adj.",
+    "meaning": "uninteresting, unexciting"
+  },
+  {
+    "number": 744,
+    "word": "insoluble",
+    "word_type": "adj.",
+    "meaning": "impossible to solve; incapable of being dissolved in liquid"
+  },
+  {
+    "number": 745,
+    "word": "insular",
+    "word_type": "adj.",
+    "meaning": "interested in only one'2019s own country or group; isolated"
+  },
+  {
+    "number": 746,
+    "word": "interloper",
+    "word_type": "n.",
+    "meaning": "a person who inserts oneself into a situation in which s/he is unwelcome or doesn'2019t belong, an intruder"
+  },
+  {
+    "number": 747,
+    "word": "intractable",
+    "word_type": "adj.",
+    "meaning": "very difficult or impossible to control, manage, or solve"
+  },
+  {
+    "number": 748,
+    "word": "intransigent",
+    "word_type": "adj.",
+    "meaning": "very stubborn"
+  },
+  {
+    "number": 749,
+    "word": "intrepid",
+    "word_type": "adj.",
+    "meaning": "fearless, bold and brave"
+  },
+  {
+    "number": 750,
+    "word": "intriguing",
+    "word_type": "adj.",
+    "meaning": "very interesting, esp. because it is mysterious; arousing curiosity"
+  },
+  {
+    "number": 751,
+    "word": "ironclad",
+    "word_type": "adj.",
+    "meaning": "impossible to break or challenge (of a guarantee, argument, rule, etc.)"
+  },
+  {
+    "number": 752,
+    "word": "irresolute",
+    "word_type": "adj.",
+    "meaning": "indecisive"
+  },
+  {
+    "number": 753,
+    "word": "irreverent",
+    "word_type": "adj.",
+    "meaning": "lacking proper respect for people or things that are generally taken seriously"
+  },
+  {
+    "number": 754,
+    "word": "itinerant",
+    "word_type": "adj.",
+    "meaning": "traveling from place to place"
+  },
+  {
+    "number": 755,
+    "word": "judicious",
+    "word_type": "adj.",
+    "meaning": "showing good judgment, sensible"
+  }
+]
