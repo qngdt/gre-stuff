@@ -1,0 +1,100 @@
+[
+  {
+    "number": 1,
+    "word": "abhorrent",
+    "word_type": "adj.",
+    "meaning": "worthy of hatred and disgust"
+  },
+  {
+    "number": 2,
+    "word": "abridge",
+    "word_type": "v.",
+    "meaning": "to shorten"
+  },
+  {
+    "number": 3,
+    "word": "abstain",
+    "word_type": "v.",
+    "meaning": "to keep oneself from doing or having something"
+  },
+  {
+    "number": 4,
+    "word": "abstract",
+    "word_type": "adj.",
+    "meaning": "relating to ideas rather than something physical or concrete"
+  },
+  {
+    "number": 5,
+    "word": "abundant",
+    "word_type": "adj.",
+    "meaning": "existing in large quantities"
+  },
+  {
+    "number": 6,
+    "word": "accentuate",
+    "word_type": "v.",
+    "meaning": "to make more noticeable, to emphasize"
+  },
+  {
+    "number": 7,
+    "word": "acclaim",
+    "word_type": "n.",
+    "meaning": "enthusiastic public praise"
+  },
+  {
+    "number": 8,
+    "word": "accommodating",
+    "word_type": "adj.",
+    "meaning": "willing to please, ready to help"
+  },
+  {
+    "number": 9,
+    "word": "accord",
+    "word_type": "n.",
+    "meaning": "agreement, harmony"
+  },
+  {
+    "number": 10,
+    "word": "acute",
+    "word_type": "adj.",
+    "meaning": "severe, intense, or urgent; highly developed (of senses); perceptive"
+  },
+  { "number": 11, "word": "adept", "word_type": "adj.", "meaning": "skilled" },
+  {
+    "number": 12,
+    "word": "adequate",
+    "word_type": "adj.",
+    "meaning": "enough"
+  },
+  {
+    "number": 13,
+    "word": "adulterate",
+    "word_type": "v.",
+    "meaning": "to make impure by adding another substance or element"
+  },
+  {
+    "number": 14,
+    "word": "adverse",
+    "word_type": "adj.",
+    "meaning": "unfavorable or harmful"
+  },
+  {
+    "number": 15,
+    "word": "advocate",
+    "word_type": "v.",
+    "meaning": "to promote or support"
+  },
+  {
+    "number": 16,
+    "word": "affable",
+    "word_type": "adj.",
+    "meaning": "friendly and pleasant"
+  },
+  {
+    "number": 17,
+    "word": "affluent",
+    "word_type": "adj.",
+    "meaning": "wealthy"
+  },
+  { "number": 17, "word": "affluence", "word_type": "n.", "meaning": "wealth" }
+]
