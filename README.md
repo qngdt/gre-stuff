@@ -6,5 +6,5 @@
 - An `.env` file containing `OPENAI_API_KEY`
 
 ## Contents
-- `main.py`: Extracting words from each page of the PDF and saving them to `output/data-{page-number}.json` file
+- `main.py`: Extracting words from each page of the PDF and saving them to the `output` folder
 - `anki.py`: Import the data from `output` folder to Anki
