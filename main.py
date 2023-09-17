@@ -12,7 +12,7 @@ load_dotenv()
 
 PAGES = 70
 
-for page in range(1, PAGES + 1):
+for page in range(23, PAGES + 1):
     print("Extracting page", page)
     text = extract_text("gre_vocab.pdf", page_numbers=[page])
 
