@@ -53,36 +53,60 @@
     "word_type": "v.",
     "meaning": "to talk up the merits of something, to praise and promote"
   },
-  { "number": 518, "word": "tout", "word_type": "n.", "meaning": null },
+  {
+    "number": 518,
+    "word": "tout",
+    "word_type": "v.",
+    "meaning": "to talk up the merits of something, to praise and promote"
+  },
   {
     "number": 519,
     "word": "trailblazer",
     "word_type": "v.",
     "meaning": "Someone who is the first to do something, an innovator"
   },
-  { "number": 519, "word": "trailblazer", "word_type": "n.", "meaning": null },
+  {
+    "number": 519,
+    "word": "trailblazer",
+    "word_type": "n.",
+    "meaning": "Someone who is the first to do something, an innovator"
+  },
   {
     "number": 520,
     "word": "tranquil",
     "word_type": "adj.",
     "meaning": "calm, quiet, and peaceful"
   },
-  { "number": 521, "word": "transcend", "word_type": null, "meaning": null },
+  {
+    "number": 521,
+    "word": "transcend",
+    "word_type": "adj.",
+    "meaning": "Someone who is the first to do something, an innovator"
+  },
   {
     "number": 522,
     "word": "treatise",
     "word_type": "v.",
     "meaning": "a written work discussing a subject in a thorough and systematic way"
   },
-  { "number": 522, "word": "treatise", "word_type": "n.", "meaning": null },
+  {
+    "number": 522,
+    "word": "treatise",
+    "word_type": "n.",
+    "meaning": "a written work discussing a subject in a thorough and systematic way"
+  },
   {
     "number": 523,
     "word": "trivial",
     "word_type": "adj.",
     "meaning": "unimportant, insignificant"
   },
-  { "number": 524, "word": "tyrant", "word_type": null, "meaning": null },
-  { "number": 525, "word": "undercut", "word_type": "n.", "meaning": null },
+  {
+    "number": 524,
+    "word": "tyrant",
+    "word_type": "n.",
+    "meaning": "an oppressive ruler with absolute power"
+  },
   {
     "number": 525,
     "word": "undercut",
@@ -95,7 +119,12 @@
     "word_type": "adj.",
     "meaning": "acting or done in a secret and dishonest way; sneaky"
   },
-  { "number": 527, "word": "undermine", "word_type": null, "meaning": null },
+  {
+    "number": 527,
+    "word": "undermine",
+    "word_type": "v.",
+    "meaning": "to weaken, esp. gradually"
+  },
   {
     "number": 528,
     "word": "underscore",
